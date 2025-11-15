@@ -4,9 +4,15 @@
 
 ## 🚀 Funcionamiento
 
--Captar las señales de audio.
--Muestrear las señales con tecnicas de filtrado y segmentacion.
--Implementar algoritmos de aprendizaje automatico (Huellas acusticas y Redes neuronales convolucionales).
+-Captar las señales de audio. <br>
+-Muestrear las señales con tecnicas de filtrado y segmentacion. <br>
+-Implementar algoritmos de aprendizaje automatico (Huellas acusticas y Redes neuronales convolucionales). 
+
+##  📱 Instalar APK
+[![Descarga Directa (APK)](https://img.shields.io/badge/Descargar-000000?style=for-the-badge&logo=android&logoColor=white)](https://www.mediafire.com/file/woskyhsfhbai7ew/MuroBirdAPK.apk/file)
+
+
+https://www.mediafire.com/file/woskyhsfhbai7ew/MuroBirdAPK.apk/file
 
 ### 1. Pantalla de Inicio
 
