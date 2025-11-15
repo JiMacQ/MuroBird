@@ -1,0 +1,4811 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.23086,
+          -33.219715
+        ]
+      },
+      "properties": {
+        "key": 5006886789,
+        "country": "Argentina",
+        "eventDate": "2025-01-07T08:12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.757613,
+          -33.388376
+        ]
+      },
+      "properties": {
+        "key": 5006926052,
+        "country": "Argentina",
+        "eventDate": "2025-01-04T08:28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.810752,
+          -15.805654
+        ]
+      },
+      "properties": {
+        "key": 5007506079,
+        "country": "Brazil",
+        "eventDate": "2025-01-03T09:51:07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.23086,
+          -33.219715
+        ]
+      },
+      "properties": {
+        "key": 5007675624,
+        "country": "Argentina",
+        "eventDate": "2025-01-07T10:45",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.232753,
+          -30.313468
+        ]
+      },
+      "properties": {
+        "key": 5007745478,
+        "country": "Argentina",
+        "eventDate": "2025-01-01T10:49",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.071789,
+          -18.958169
+        ]
+      },
+      "properties": {
+        "key": 5007910361,
+        "country": "Brazil",
+        "eventDate": "2025-01-04T09:14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.988558,
+          -12.124985
+        ]
+      },
+      "properties": {
+        "key": 5008598693,
+        "country": "Peru",
+        "eventDate": "2025-01-08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.057533,
+          -12.107433
+        ]
+      },
+      "properties": {
+        "key": 5008709438,
+        "country": "Peru",
+        "eventDate": "2025-01-04",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.059196,
+          -12.104754
+        ]
+      },
+      "properties": {
+        "key": 5008762158,
+        "country": "Peru",
+        "eventDate": "2025-01-04",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.059196,
+          -12.104754
+        ]
+      },
+      "properties": {
+        "key": 5052524571,
+        "country": "Peru",
+        "eventDate": "2025-01-18",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.070925,
+          -12.098603
+        ]
+      },
+      "properties": {
+        "key": 5061500992,
+        "country": "Peru",
+        "eventDate": "2025-01-26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.779364,
+          -18.299845
+        ]
+      },
+      "properties": {
+        "key": 5063015912,
+        "country": "Brazil",
+        "eventDate": "2025-01-12T08:10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.087418,
+          8.606652
+        ]
+      },
+      "properties": {
+        "key": 5063034042,
+        "country": "Panama",
+        "eventDate": "2025-01-03T09:21",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.284694,
+          -11.086479
+        ]
+      },
+      "properties": {
+        "key": 5063095449,
+        "country": "Brazil",
+        "eventDate": "2025-01-17T16:40",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.873764,
+          -28.267369
+        ]
+      },
+      "properties": {
+        "key": 5063357688,
+        "country": "Argentina",
+        "eventDate": "2025-01-22T09:31",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.761501,
+          -34.299656
+        ]
+      },
+      "properties": {
+        "key": 5063388777,
+        "country": "Argentina",
+        "eventDate": "2025-01-24T19:10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.551339,
+          -23.66508
+        ]
+      },
+      "properties": {
+        "key": 5063572442,
+        "country": "Brazil",
+        "eventDate": "2025-01-22T09:31:41",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.716125,
+          9.170122
+        ]
+      },
+      "properties": {
+        "key": 5063574055,
+        "country": "Panama",
+        "eventDate": "2025-01-19T08:26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.762625,
+          -34.300999
+        ]
+      },
+      "properties": {
+        "key": 5063691149,
+        "country": "Argentina",
+        "eventDate": "2025-01-31T19:34",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.23086,
+          -33.219715
+        ]
+      },
+      "properties": {
+        "key": 5063867694,
+        "country": "Argentina",
+        "eventDate": "2025-01-07T07:35",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068385,
+          -24.022052
+        ]
+      },
+      "properties": {
+        "key": 5069777106,
+        "country": "Brazil",
+        "eventDate": "2025-01-03T12:14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.735104,
+          -19.047716
+        ]
+      },
+      "properties": {
+        "key": 5077000103,
+        "country": "Brazil",
+        "eventDate": "2025-01-02T09:01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.130644,
+          8.604109
+        ]
+      },
+      "properties": {
+        "key": 5087728496,
+        "country": "Panama",
+        "eventDate": "2025-01-11T09:20",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.024444,
+          -12.138508
+        ]
+      },
+      "properties": {
+        "key": 5104324131,
+        "country": "Peru",
+        "eventDate": "2025-01-01T12:46",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.518634,
+          9.728472
+        ]
+      },
+      "properties": {
+        "key": 5108148478,
+        "country": "Costa Rica",
+        "eventDate": "2025-01-22T15:36",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.489875,
+          -27.678504
+        ]
+      },
+      "properties": {
+        "key": 5133531012,
+        "country": "Brazil",
+        "eventDate": "2025-01-25T08:33",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3412,
+          -15.7904
+        ]
+      },
+      "properties": {
+        "key": 5151712496,
+        "country": "Brazil",
+        "eventDate": "2025-01-25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.9559,
+          -22.4212
+        ]
+      },
+      "properties": {
+        "key": 5151721449,
+        "country": "Brazil",
+        "eventDate": "2025-01-16",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.147973,
+          9.961205
+        ]
+      },
+      "properties": {
+        "key": 5164879728,
+        "country": "Colombia",
+        "eventDate": "2025-01-06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.132588,
+          9.965656
+        ]
+      },
+      "properties": {
+        "key": 5164879953,
+        "country": "Colombia",
+        "eventDate": "2025-01-07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.132863,
+          9.978111
+        ]
+      },
+      "properties": {
+        "key": 5164880033,
+        "country": "Colombia",
+        "eventDate": "2025-01-09",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.152097,
+          9.958517
+        ]
+      },
+      "properties": {
+        "key": 5164880034,
+        "country": "Colombia",
+        "eventDate": "2025-01-13",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12693,
+          9.965743
+        ]
+      },
+      "properties": {
+        "key": 5164880773,
+        "country": "Colombia",
+        "eventDate": "2025-01-11",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.135353,
+          9.971423
+        ]
+      },
+      "properties": {
+        "key": 5164881223,
+        "country": "Colombia",
+        "eventDate": "2025-01-08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.156481,
+          -19.988816
+        ]
+      },
+      "properties": {
+        "key": 5168147946,
+        "country": "Brazil",
+        "eventDate": "2025-01-29T08:14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.760254,
+          -15.825997
+        ]
+      },
+      "properties": {
+        "key": 5237485414,
+        "country": "Brazil",
+        "eventDate": "2025-01-04T07:14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.811763,
+          9.294899
+        ]
+      },
+      "properties": {
+        "key": 5277327220,
+        "country": "Costa Rica",
+        "eventDate": "2025-01-13T13:08:51.165Z",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.486136,
+          9.709977
+        ]
+      },
+      "properties": {
+        "key": 5283580266,
+        "country": "Colombia",
+        "eventDate": "2025-01-15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.436792,
+          9.697886
+        ]
+      },
+      "properties": {
+        "key": 5283580377,
+        "country": "Colombia",
+        "eventDate": "2025-01-16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.484165,
+          9.710829
+        ]
+      },
+      "properties": {
+        "key": 5283580592,
+        "country": "Colombia",
+        "eventDate": "2025-01-15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.478306,
+          9.666633
+        ]
+      },
+      "properties": {
+        "key": 5283582361,
+        "country": "Colombia",
+        "eventDate": "2025-01-18",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.483762,
+          9.664921
+        ]
+      },
+      "properties": {
+        "key": 5283582370,
+        "country": "Colombia",
+        "eventDate": "2025-01-18",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.475012,
+          9.668055
+        ]
+      },
+      "properties": {
+        "key": 5283582419,
+        "country": "Colombia",
+        "eventDate": "2025-01-18",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.463209,
+          9.658352
+        ]
+      },
+      "properties": {
+        "key": 5283582556,
+        "country": "Colombia",
+        "eventDate": "2025-01-20",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.161876,
+          -12.070767
+        ]
+      },
+      "properties": {
+        "key": 5292602118,
+        "country": "Peru",
+        "eventDate": "2025-01-30T11:40:44",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.274126,
+          9.571321
+        ]
+      },
+      "properties": {
+        "key": 5294560932,
+        "country": "Colombia",
+        "eventDate": "2025-01-27",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.28332,
+          9.562531
+        ]
+      },
+      "properties": {
+        "key": 5294563725,
+        "country": "Colombia",
+        "eventDate": "2025-01-27",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1195,
+          -30.067679
+        ]
+      },
+      "properties": {
+        "key": 5760144716,
+        "country": "Brazil",
+        "eventDate": "2025-01-28T09:16:22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.053286,
+          -12.103473
+        ]
+      },
+      "properties": {
+        "key": 5061475096,
+        "country": "Peru",
+        "eventDate": "2025-02-02",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.058948,
+          -12.107054
+        ]
+      },
+      "properties": {
+        "key": 5061587587,
+        "country": "Peru",
+        "eventDate": "2025-02-08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.055069,
+          -12.109047
+        ]
+      },
+      "properties": {
+        "key": 5061622505,
+        "country": "Peru",
+        "eventDate": "2025-02-08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.941187,
+          -12.115886
+        ]
+      },
+      "properties": {
+        "key": 5063795017,
+        "country": "Peru",
+        "eventDate": "2025-02-04T12:43:06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9899,
+          -18.990378
+        ]
+      },
+      "properties": {
+        "key": 5064041097,
+        "country": "Brazil",
+        "eventDate": "2025-02-08T11:16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.281987,
+          -22.788245
+        ]
+      },
+      "properties": {
+        "key": 5069817384,
+        "country": "Brazil",
+        "eventDate": "2025-02-10T05:41",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.65427,
+          5.171905
+        ]
+      },
+      "properties": {
+        "key": 5069939305,
+        "country": "French Guiana",
+        "eventDate": "2025-02-15T07:40:54",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.878557,
+          -18.816883
+        ]
+      },
+      "properties": {
+        "key": 5069983004,
+        "country": "Brazil",
+        "eventDate": "2025-02-14T11:31",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.797991,
+          -22.82312
+        ]
+      },
+      "properties": {
+        "key": 5070022468,
+        "country": "Brazil",
+        "eventDate": "2025-02-14T18:27",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.121707,
+          -22.924627
+        ]
+      },
+      "properties": {
+        "key": 5070035328,
+        "country": "Brazil",
+        "eventDate": "2025-02-13T10:43:09",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.059196,
+          -12.104754
+        ]
+      },
+      "properties": {
+        "key": 5074867185,
+        "country": "Peru",
+        "eventDate": "2025-02-22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.058948,
+          -12.107054
+        ]
+      },
+      "properties": {
+        "key": 5074904187,
+        "country": "Peru",
+        "eventDate": "2025-02-22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.910501,
+          -18.798711
+        ]
+      },
+      "properties": {
+        "key": 5076847439,
+        "country": "Brazil",
+        "eventDate": "2025-02-15T11:33",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.910501,
+          -18.798711
+        ]
+      },
+      "properties": {
+        "key": 5076861480,
+        "country": "Brazil",
+        "eventDate": "2025-02-15T11:44",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.904965,
+          -18.809821
+        ]
+      },
+      "properties": {
+        "key": 5076937279,
+        "country": "Brazil",
+        "eventDate": "2025-02-21T08:06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.029489,
+          -18.870283
+        ]
+      },
+      "properties": {
+        "key": 5076989228,
+        "country": "Brazil",
+        "eventDate": "2025-02-22T06:10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.891103,
+          -18.809728
+        ]
+      },
+      "properties": {
+        "key": 5076995951,
+        "country": "Brazil",
+        "eventDate": "2025-02-21T10:07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.891103,
+          -18.809728
+        ]
+      },
+      "properties": {
+        "key": 5077048839,
+        "country": "Brazil",
+        "eventDate": "2025-02-21T10:13",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03506,
+          -12.101239
+        ]
+      },
+      "properties": {
+        "key": 5087296017,
+        "country": "Peru",
+        "eventDate": "2025-02-13T13:42",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.100299,
+          -15.913261
+        ]
+      },
+      "properties": {
+        "key": 5087299114,
+        "country": "Brazil",
+        "eventDate": "2025-02-15T11:14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.049937,
+          -5.677415
+        ]
+      },
+      "properties": {
+        "key": 5087333233,
+        "country": "Brazil",
+        "eventDate": "2025-02-16T06:57",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.408095,
+          -24.558112
+        ]
+      },
+      "properties": {
+        "key": 5087588360,
+        "country": "Brazil",
+        "eventDate": "2025-02-16T06:43",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.153444,
+          8.596024
+        ]
+      },
+      "properties": {
+        "key": 5104342866,
+        "country": "Panama",
+        "eventDate": "2025-02-26T21:45",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.432362,
+          -27.575645
+        ]
+      },
+      "properties": {
+        "key": 5133781329,
+        "country": "Brazil",
+        "eventDate": "2025-02-02T17:27",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.037304,
+          -5.579843
+        ]
+      },
+      "properties": {
+        "key": 5209559792,
+        "country": "Brazil",
+        "eventDate": "2025-02-16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.047463,
+          -5.612877
+        ]
+      },
+      "properties": {
+        "key": 5209561520,
+        "country": "Brazil",
+        "eventDate": "2025-02-12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.028182,
+          -5.582145
+        ]
+      },
+      "properties": {
+        "key": 5209592138,
+        "country": "Brazil",
+        "eventDate": "2025-02-17",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.038576,
+          -5.577135
+        ]
+      },
+      "properties": {
+        "key": 5209593711,
+        "country": "Brazil",
+        "eventDate": "2025-02-16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.041889,
+          -5.614793
+        ]
+      },
+      "properties": {
+        "key": 5209593860,
+        "country": "Brazil",
+        "eventDate": "2025-02-12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.047646,
+          -5.54137
+        ]
+      },
+      "properties": {
+        "key": 5209595869,
+        "country": "Brazil",
+        "eventDate": "2025-02-14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.030449,
+          -5.584286
+        ]
+      },
+      "properties": {
+        "key": 5209595923,
+        "country": "Brazil",
+        "eventDate": "2025-02-17",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.015564,
+          -5.534203
+        ]
+      },
+      "properties": {
+        "key": 5209612275,
+        "country": "Brazil",
+        "eventDate": "2025-02-13",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.035281,
+          -5.580116
+        ]
+      },
+      "properties": {
+        "key": 5209613412,
+        "country": "Brazil",
+        "eventDate": "2025-02-16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.040653,
+          -5.543807
+        ]
+      },
+      "properties": {
+        "key": 5209614610,
+        "country": "Brazil",
+        "eventDate": "2025-02-14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.049989,
+          -5.495141
+        ]
+      },
+      "properties": {
+        "key": 5209615819,
+        "country": "Brazil",
+        "eventDate": "2025-02-15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.021722,
+          -5.543897
+        ]
+      },
+      "properties": {
+        "key": 5209616637,
+        "country": "Brazil",
+        "eventDate": "2025-02-13",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.051512,
+          -5.4903
+        ]
+      },
+      "properties": {
+        "key": 5209616989,
+        "country": "Brazil",
+        "eventDate": "2025-02-15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.053759,
+          -5.490316
+        ]
+      },
+      "properties": {
+        "key": 5209619117,
+        "country": "Brazil",
+        "eventDate": "2025-02-15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.04231,
+          -5.612896
+        ]
+      },
+      "properties": {
+        "key": 5209619796,
+        "country": "Brazil",
+        "eventDate": "2025-02-12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.044691,
+          -5.578195
+        ]
+      },
+      "properties": {
+        "key": 5209622154,
+        "country": "Brazil",
+        "eventDate": "2025-02-16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.043615,
+          -5.543292
+        ]
+      },
+      "properties": {
+        "key": 5209624751,
+        "country": "Brazil",
+        "eventDate": "2025-02-14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.042181,
+          -5.610997
+        ]
+      },
+      "properties": {
+        "key": 5209628872,
+        "country": "Brazil",
+        "eventDate": "2025-02-12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.041592,
+          -5.576458
+        ]
+      },
+      "properties": {
+        "key": 5209629193,
+        "country": "Brazil",
+        "eventDate": "2025-02-16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.033352,
+          -5.582361
+        ]
+      },
+      "properties": {
+        "key": 5209633966,
+        "country": "Brazil",
+        "eventDate": "2025-02-17",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.205045,
+          11.047384
+        ]
+      },
+      "properties": {
+        "key": 5294544951,
+        "country": "Colombia",
+        "eventDate": "2025-02-15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.213859,
+          11.042705
+        ]
+      },
+      "properties": {
+        "key": 5294547680,
+        "country": "Colombia",
+        "eventDate": "2025-02-12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.221582,
+          11.053405
+        ]
+      },
+      "properties": {
+        "key": 5294548235,
+        "country": "Colombia",
+        "eventDate": "2025-02-11",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.224917,
+          11.05631
+        ]
+      },
+      "properties": {
+        "key": 5294549010,
+        "country": "Colombia",
+        "eventDate": "2025-02-11",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.290469,
+          9.58738
+        ]
+      },
+      "properties": {
+        "key": 5294560411,
+        "country": "Colombia",
+        "eventDate": "2025-02-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.304521,
+          9.587027
+        ]
+      },
+      "properties": {
+        "key": 5294561729,
+        "country": "Colombia",
+        "eventDate": "2025-02-05",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.286474,
+          9.591015
+        ]
+      },
+      "properties": {
+        "key": 5294562198,
+        "country": "Colombia",
+        "eventDate": "2025-02-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.053286,
+          -12.103473
+        ]
+      },
+      "properties": {
+        "key": 5086442939,
+        "country": "Peru",
+        "eventDate": "2025-03-09",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.903406,
+          -18.805991
+        ]
+      },
+      "properties": {
+        "key": 5087366826,
+        "country": "Brazil",
+        "eventDate": "2025-03-01T11:51",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.935107,
+          -18.919781
+        ]
+      },
+      "properties": {
+        "key": 5087377679,
+        "country": "Brazil",
+        "eventDate": "2025-03-03T06:24",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.905002,
+          -18.803633
+        ]
+      },
+      "properties": {
+        "key": 5087378968,
+        "country": "Brazil",
+        "eventDate": "2025-03-01T07:24",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.903406,
+          -18.805991
+        ]
+      },
+      "properties": {
+        "key": 5087378997,
+        "country": "Brazil",
+        "eventDate": "2025-03-01T12:18",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.903406,
+          -18.805991
+        ]
+      },
+      "properties": {
+        "key": 5087388714,
+        "country": "Brazil",
+        "eventDate": "2025-03-01T09:58",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.903406,
+          -18.805991
+        ]
+      },
+      "properties": {
+        "key": 5087421886,
+        "country": "Brazil",
+        "eventDate": "2025-03-01T10:09",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.903406,
+          -18.805991
+        ]
+      },
+      "properties": {
+        "key": 5087425866,
+        "country": "Brazil",
+        "eventDate": "2025-03-01T10:18",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.905002,
+          -18.803633
+        ]
+      },
+      "properties": {
+        "key": 5087428874,
+        "country": "Brazil",
+        "eventDate": "2025-03-01T06:22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.905002,
+          -18.803633
+        ]
+      },
+      "properties": {
+        "key": 5087448693,
+        "country": "Brazil",
+        "eventDate": "2025-03-01T06:58",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.903406,
+          -18.805991
+        ]
+      },
+      "properties": {
+        "key": 5087450916,
+        "country": "Brazil",
+        "eventDate": "2025-03-01T10:04",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.989822,
+          -18.990301
+        ]
+      },
+      "properties": {
+        "key": 5087485844,
+        "country": "Brazil",
+        "eventDate": "2025-03-03T07:20",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.903406,
+          -18.805991
+        ]
+      },
+      "properties": {
+        "key": 5087526805,
+        "country": "Brazil",
+        "eventDate": "2025-03-01T08:37",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.029599,
+          -12.120289
+        ]
+      },
+      "properties": {
+        "key": 5087623316,
+        "country": "Peru",
+        "eventDate": "2025-03-06T14:55:37",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91841,
+          -18.886334
+        ]
+      },
+      "properties": {
+        "key": 5087674009,
+        "country": "Brazil",
+        "eventDate": "2025-03-08T08:01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.030136,
+          -12.121836
+        ]
+      },
+      "properties": {
+        "key": 5087823847,
+        "country": "Peru",
+        "eventDate": "2025-03-13T09:45:14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.82822,
+          -19.649247
+        ]
+      },
+      "properties": {
+        "key": 5087844224,
+        "country": "Brazil",
+        "eventDate": "2025-03-06T16:22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.722835,
+          -33.407051
+        ]
+      },
+      "properties": {
+        "key": 5087896521,
+        "country": "Argentina",
+        "eventDate": "2025-03-09T08:25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.359076,
+          -34.603564
+        ]
+      },
+      "properties": {
+        "key": 5087897343,
+        "country": "Argentina",
+        "eventDate": "2025-03-15T10:41",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.679195,
+          -32.859031
+        ]
+      },
+      "properties": {
+        "key": 5087952382,
+        "country": "Argentina",
+        "eventDate": "2025-03-10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.087264,
+          -12.069028
+        ]
+      },
+      "properties": {
+        "key": 5088109060,
+        "country": "Peru",
+        "eventDate": "2025-03-17T12:08:32",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.284592,
+          -11.085831
+        ]
+      },
+      "properties": {
+        "key": 5104341931,
+        "country": "Brazil",
+        "eventDate": "2025-03-17T17:13",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.739939,
+          -32.902527
+        ]
+      },
+      "properties": {
+        "key": 5104369386,
+        "country": "Argentina",
+        "eventDate": "2025-03-15T09:33:29",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.175802,
+          -18.7645
+        ]
+      },
+      "properties": {
+        "key": 5104433296,
+        "country": "Brazil",
+        "eventDate": "2025-03-17T15:22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.175802,
+          -18.7645
+        ]
+      },
+      "properties": {
+        "key": 5104513277,
+        "country": "Brazil",
+        "eventDate": "2025-03-17T15:55",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.561876,
+          -24.004135
+        ]
+      },
+      "properties": {
+        "key": 5104552318,
+        "country": "Brazil",
+        "eventDate": "2025-03-11T07:15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.897226,
+          -18.806282
+        ]
+      },
+      "properties": {
+        "key": 5108340856,
+        "country": "Brazil",
+        "eventDate": "2025-03-29T10:19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.897226,
+          -18.806282
+        ]
+      },
+      "properties": {
+        "key": 5108346861,
+        "country": "Brazil",
+        "eventDate": "2025-03-29T10:15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.451229,
+          -22.407551
+        ]
+      },
+      "properties": {
+        "key": 5108357208,
+        "country": "Brazil",
+        "eventDate": "2025-03-29T08:38",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.897226,
+          -18.806282
+        ]
+      },
+      "properties": {
+        "key": 5108437869,
+        "country": "Brazil",
+        "eventDate": "2025-03-29T08:19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.526213,
+          -9.423338
+        ]
+      },
+      "properties": {
+        "key": 5108494782,
+        "country": "Brazil",
+        "eventDate": "2025-03-29T16:01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98393,
+          -12.087453
+        ]
+      },
+      "properties": {
+        "key": 5108795416,
+        "country": "Peru",
+        "eventDate": "2025-03-22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.023097,
+          -12.14883
+        ]
+      },
+      "properties": {
+        "key": 5108825448,
+        "country": "Peru",
+        "eventDate": "2025-03-31",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.986835,
+          -12.091836
+        ]
+      },
+      "properties": {
+        "key": 5108833429,
+        "country": "Peru",
+        "eventDate": "2025-03-22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.656921,
+          -26.895407
+        ]
+      },
+      "properties": {
+        "key": 5133857197,
+        "country": "Brazil",
+        "eventDate": "2025-03-27T10:15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.927039,
+          -15.783848
+        ]
+      },
+      "properties": {
+        "key": 5133916546,
+        "country": "Brazil",
+        "eventDate": "2025-03-29T10:38",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.093959,
+          -8.08291
+        ]
+      },
+      "properties": {
+        "key": 5134544160,
+        "country": "Brazil",
+        "eventDate": "2025-03-26T08:38",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.839465,
+          10.493213
+        ]
+      },
+      "properties": {
+        "key": 5167314796,
+        "country": "Venezuela (Bolivarian Republic of)",
+        "eventDate": "2025-03-22T08:30",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.720544,
+          5.380978
+        ]
+      },
+      "properties": {
+        "key": 5220506489,
+        "country": "Colombia",
+        "eventDate": "2025-03-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.721936,
+          5.380236
+        ]
+      },
+      "properties": {
+        "key": 5220507138,
+        "country": "Colombia",
+        "eventDate": "2025-03-07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.721936,
+          5.380236
+        ]
+      },
+      "properties": {
+        "key": 5220507665,
+        "country": "Colombia",
+        "eventDate": "2025-03-08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.721936,
+          5.380236
+        ]
+      },
+      "properties": {
+        "key": 5220507670,
+        "country": "Colombia",
+        "eventDate": "2025-03-08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.447835,
+          -22.408917
+        ]
+      },
+      "properties": {
+        "key": 5231199613,
+        "country": "Brazil",
+        "eventDate": "2025-03-15T07:58",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.326156,
+          5.300918
+        ]
+      },
+      "properties": {
+        "key": 5233005432,
+        "country": "Colombia",
+        "eventDate": "2025-03-27",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.327809,
+          5.297897
+        ]
+      },
+      "properties": {
+        "key": 5233005433,
+        "country": "Colombia",
+        "eventDate": "2025-03-26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19762,
+          6.56774
+        ]
+      },
+      "properties": {
+        "key": 5796814288,
+        "country": "Colombia",
+        "eventDate": "2025-03-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.711502,
+          9.119662
+        ]
+      },
+      "properties": {
+        "key": 5844491969,
+        "country": "Panama",
+        "eventDate": "2025-03-14T07:55",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.95719,
+          -18.855833
+        ]
+      },
+      "properties": {
+        "key": 5133647545,
+        "country": "Brazil",
+        "eventDate": "2025-04-13T12:07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.064153,
+          8.45147
+        ]
+      },
+      "properties": {
+        "key": 5133721230,
+        "country": "Panama",
+        "eventDate": "2025-04-12T17:13:07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91841,
+          -18.886334
+        ]
+      },
+      "properties": {
+        "key": 5133849629,
+        "country": "Brazil",
+        "eventDate": "2025-04-12T12:36",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.314558,
+          -34.663339
+        ]
+      },
+      "properties": {
+        "key": 5133937207,
+        "country": "Argentina",
+        "eventDate": "2025-04-13T10:22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.489915,
+          -27.67848
+        ]
+      },
+      "properties": {
+        "key": 5133996368,
+        "country": "Brazil",
+        "eventDate": "2025-04-03T11:46",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.304379,
+          -20.276641
+        ]
+      },
+      "properties": {
+        "key": 5134040406,
+        "country": "Brazil",
+        "eventDate": "2025-04-12T10:31",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.314558,
+          -34.663339
+        ]
+      },
+      "properties": {
+        "key": 5134069589,
+        "country": "Argentina",
+        "eventDate": "2025-04-13T10:20",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.134657,
+          -15.918448
+        ]
+      },
+      "properties": {
+        "key": 5134316597,
+        "country": "Brazil",
+        "eventDate": "2025-04-01T15:49",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.094105,
+          -18.77104
+        ]
+      },
+      "properties": {
+        "key": 5134402626,
+        "country": "Brazil",
+        "eventDate": "2025-04-05T06:22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.630185,
+          -13.539522
+        ]
+      },
+      "properties": {
+        "key": 5134533159,
+        "country": "Brazil",
+        "eventDate": "2025-04-02T07:36:26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.134657,
+          -15.918448
+        ]
+      },
+      "properties": {
+        "key": 5134612968,
+        "country": "Brazil",
+        "eventDate": "2025-04-01T15:45",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.752414,
+          -22.854846
+        ]
+      },
+      "properties": {
+        "key": 5134697579,
+        "country": "Brazil",
+        "eventDate": "2025-04-19T16:58",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.596813,
+          -18.922686
+        ]
+      },
+      "properties": {
+        "key": 5134830594,
+        "country": "Brazil",
+        "eventDate": "2025-04-19T10:11",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.99993,
+          -9.17235
+        ]
+      },
+      "properties": {
+        "key": 5134867904,
+        "country": "Brazil",
+        "eventDate": "2025-04-18T16:12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.596813,
+          -18.922686
+        ]
+      },
+      "properties": {
+        "key": 5134903981,
+        "country": "Brazil",
+        "eventDate": "2025-04-19T10:31",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.623467,
+          -23.443291
+        ]
+      },
+      "properties": {
+        "key": 5140036195,
+        "country": "Brazil",
+        "eventDate": "2025-04-21T15:02",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.521964,
+          -23.493928
+        ]
+      },
+      "properties": {
+        "key": 5140051940,
+        "country": "Brazil",
+        "eventDate": "2025-04-04T08:24",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.623467,
+          -23.443291
+        ]
+      },
+      "properties": {
+        "key": 5140064104,
+        "country": "Brazil",
+        "eventDate": "2025-04-21T12:29",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.001734,
+          -9.173128
+        ]
+      },
+      "properties": {
+        "key": 5140180680,
+        "country": "Brazil",
+        "eventDate": "2025-04-19T08:38",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.302002,
+          4.885088
+        ]
+      },
+      "properties": {
+        "key": 5140619701,
+        "country": "French Guiana",
+        "eventDate": "2025-04-26T15:40:03",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.600952,
+          -22.879103
+        ]
+      },
+      "properties": {
+        "key": 5140835984,
+        "country": "Brazil",
+        "eventDate": "2025-04-27T07:11",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.337314,
+          4.322539
+        ]
+      },
+      "properties": {
+        "key": 5140886410,
+        "country": "French Guiana",
+        "eventDate": "2025-04-27T12:21:11",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.036709,
+          -22.949366
+        ]
+      },
+      "properties": {
+        "key": 5140910019,
+        "country": "Brazil",
+        "eventDate": "2025-04-25T08:27",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.341163,
+          4.324434
+        ]
+      },
+      "properties": {
+        "key": 5140925336,
+        "country": "French Guiana",
+        "eventDate": "2025-04-27T16:12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.360392,
+          4.873592
+        ]
+      },
+      "properties": {
+        "key": 5140950084,
+        "country": "French Guiana",
+        "eventDate": "2025-04-28T08:33:56",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.022334,
+          -34.858852
+        ]
+      },
+      "properties": {
+        "key": 5141027284,
+        "country": "Uruguay",
+        "eventDate": "2025-04-27T14:43",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.341163,
+          4.324434
+        ]
+      },
+      "properties": {
+        "key": 5141066983,
+        "country": "French Guiana",
+        "eventDate": "2025-04-27T16:12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.347055,
+          4.811594
+        ]
+      },
+      "properties": {
+        "key": 5141080019,
+        "country": "French Guiana",
+        "eventDate": "2025-04-28T15:45",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.921508,
+          -19.962372
+        ]
+      },
+      "properties": {
+        "key": 5141123612,
+        "country": "Brazil",
+        "eventDate": "2025-04-27T01:28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.088725,
+          7.102382
+        ]
+      },
+      "properties": {
+        "key": 5153038065,
+        "country": "Colombia",
+        "eventDate": "2025-04-15T08:07:46",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.357305,
+          -7.262914
+        ]
+      },
+      "properties": {
+        "key": 5153056798,
+        "country": "Peru",
+        "eventDate": "2025-04-14T08:50",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.486477,
+          -0.14052
+        ]
+      },
+      "properties": {
+        "key": 5153619821,
+        "country": "Ecuador",
+        "eventDate": "2025-04-26T12:00",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.487833,
+          4.843514
+        ]
+      },
+      "properties": {
+        "key": 5154181683,
+        "country": "French Guiana",
+        "eventDate": "2025-04-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04444,
+          -12.006801
+        ]
+      },
+      "properties": {
+        "key": 5154304710,
+        "country": "Peru",
+        "eventDate": "2025-04-27T08:46",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.118263,
+          9.973588
+        ]
+      },
+      "properties": {
+        "key": 5164880134,
+        "country": "Colombia",
+        "eventDate": "2025-04-24",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.132862,
+          9.97811
+        ]
+      },
+      "properties": {
+        "key": 5164882101,
+        "country": "Colombia",
+        "eventDate": "2025-04-22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.025597,
+          -12.044273
+        ]
+      },
+      "properties": {
+        "key": 5170960707,
+        "country": "Peru",
+        "eventDate": "2025-04-05",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.848983,
+          -15.669607
+        ]
+      },
+      "properties": {
+        "key": 5176581819,
+        "country": "Brazil",
+        "eventDate": "2025-04-28T20:58:29",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.417733,
+          9.446742
+        ]
+      },
+      "properties": {
+        "key": 5225719794,
+        "country": "Colombia",
+        "eventDate": "2025-04-25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.038147,
+          -12.061114
+        ]
+      },
+      "properties": {
+        "key": 5231550590,
+        "country": "Peru",
+        "eventDate": "2025-04-20T17:30:30",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.860397,
+          9.263629
+        ]
+      },
+      "properties": {
+        "key": 5280659139,
+        "country": "Costa Rica",
+        "eventDate": "2025-04-17T20:10:48.623Z",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.507616,
+          -22.261768
+        ]
+      },
+      "properties": {
+        "key": 5153323921,
+        "country": "Brazil",
+        "eventDate": "2025-05-07T16:26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.309942,
+          -22.531211
+        ]
+      },
+      "properties": {
+        "key": 5153565914,
+        "country": "Brazil",
+        "eventDate": "2025-05-01T16:15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.075801,
+          -14.916657
+        ]
+      },
+      "properties": {
+        "key": 5153570185,
+        "country": "Brazil",
+        "eventDate": "2025-05-02T16:37",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.545525,
+          8.931944
+        ]
+      },
+      "properties": {
+        "key": 5154270996,
+        "country": "Panama",
+        "eventDate": "2025-05-04T11:13:58",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.075801,
+          -14.916657
+        ]
+      },
+      "properties": {
+        "key": 5154367828,
+        "country": "Brazil",
+        "eventDate": "2025-05-02T09:25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.540314,
+          -21.756985
+        ]
+      },
+      "properties": {
+        "key": 5154469766,
+        "country": "Brazil",
+        "eventDate": "2025-05-03T16:36",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.579051,
+          -22.468499
+        ]
+      },
+      "properties": {
+        "key": 5154873843,
+        "country": "Brazil",
+        "eventDate": "2025-05-10T07:01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.545361,
+          -19.376961
+        ]
+      },
+      "properties": {
+        "key": 5164071397,
+        "country": "Brazil",
+        "eventDate": "2025-05-10T00:00",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.714172,
+          -19.171371
+        ]
+      },
+      "properties": {
+        "key": 5164099405,
+        "country": "Brazil",
+        "eventDate": "2025-05-09T00:00",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.545361,
+          -19.376961
+        ]
+      },
+      "properties": {
+        "key": 5164104307,
+        "country": "Brazil",
+        "eventDate": "2025-05-09T00:00",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.991521,
+          -15.82477
+        ]
+      },
+      "properties": {
+        "key": 5167521602,
+        "country": "Brazil",
+        "eventDate": "2025-05-11T16:59",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.638092,
+          -19.392916
+        ]
+      },
+      "properties": {
+        "key": 5167657471,
+        "country": "Brazil",
+        "eventDate": "2025-05-20T07:29",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.218718,
+          -30.152488
+        ]
+      },
+      "properties": {
+        "key": 5167701689,
+        "country": "Brazil",
+        "eventDate": "2025-05-12T09:28:17",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.20587,
+          -19.068292
+        ]
+      },
+      "properties": {
+        "key": 5167894387,
+        "country": "Brazil",
+        "eventDate": "2025-05-17T09:06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.23784,
+          -32.293627
+        ]
+      },
+      "properties": {
+        "key": 5167998231,
+        "country": "Argentina",
+        "eventDate": "2025-05-20T14:25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.90715,
+          -22.03105
+        ]
+      },
+      "properties": {
+        "key": 5168454837,
+        "country": "Brazil",
+        "eventDate": "2025-05-17T08:56",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.013615,
+          -20.059214
+        ]
+      },
+      "properties": {
+        "key": 5170733337,
+        "country": "Brazil",
+        "eventDate": "2025-05-15T00:00",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.997528,
+          -19.999928
+        ]
+      },
+      "properties": {
+        "key": 5170764337,
+        "country": "Brazil",
+        "eventDate": "2025-05-15T00:00",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.992718,
+          -19.214434
+        ]
+      },
+      "properties": {
+        "key": 5170784405,
+        "country": "Brazil",
+        "eventDate": "2025-05-12T00:00",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.959557,
+          -19.56284
+        ]
+      },
+      "properties": {
+        "key": 5170803305,
+        "country": "Brazil",
+        "eventDate": "2025-05-16T00:00",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.807568,
+          -19.483788
+        ]
+      },
+      "properties": {
+        "key": 5170877375,
+        "country": "Brazil",
+        "eventDate": "2025-05-13T00:00",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.026364,
+          -12.136562
+        ]
+      },
+      "properties": {
+        "key": 5171462354,
+        "country": "Peru",
+        "eventDate": "2025-05-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.04676,
+          -19.199142
+        ]
+      },
+      "properties": {
+        "key": 5176498329,
+        "country": "Brazil",
+        "eventDate": "2025-05-31T07:52",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.005124,
+          -19.282929
+        ]
+      },
+      "properties": {
+        "key": 5176533470,
+        "country": "Brazil",
+        "eventDate": "2025-05-31T10:36",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.890639,
+          -18.816468
+        ]
+      },
+      "properties": {
+        "key": 5176736811,
+        "country": "Brazil",
+        "eventDate": "2025-05-30T10:32",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.005124,
+          -19.282929
+        ]
+      },
+      "properties": {
+        "key": 5177024404,
+        "country": "Brazil",
+        "eventDate": "2025-05-31T10:41",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.971243,
+          -19.979432
+        ]
+      },
+      "properties": {
+        "key": 5177096683,
+        "country": "Brazil",
+        "eventDate": "2025-05-10T08:45",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.04676,
+          -19.199142
+        ]
+      },
+      "properties": {
+        "key": 5177134277,
+        "country": "Brazil",
+        "eventDate": "2025-05-31T07:39",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.005124,
+          -19.282929
+        ]
+      },
+      "properties": {
+        "key": 5177246449,
+        "country": "Brazil",
+        "eventDate": "2025-05-31T10:27",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.709888,
+          -22.31349
+        ]
+      },
+      "properties": {
+        "key": 5187884846,
+        "country": "Brazil",
+        "eventDate": "2025-05-30T08:17",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.420328,
+          9.0307
+        ]
+      },
+      "properties": {
+        "key": 5187955498,
+        "country": "Panama",
+        "eventDate": "2025-05-10T07:38:36",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.796012,
+          -22.352383
+        ]
+      },
+      "properties": {
+        "key": 5188218242,
+        "country": "Brazil",
+        "eventDate": "2025-05-27T17:07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.746041,
+          -18.969919
+        ]
+      },
+      "properties": {
+        "key": 5198710041,
+        "country": "Brazil",
+        "eventDate": "2025-05-17T11:19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.454581,
+          -25.660264
+        ]
+      },
+      "properties": {
+        "key": 5206373695,
+        "country": "Brazil",
+        "eventDate": "2025-05-11T11:14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.204051,
+          -30.103133
+        ]
+      },
+      "properties": {
+        "key": 5206740519,
+        "country": "Brazil",
+        "eventDate": "2025-05-23T10:31",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.536563,
+          5.017914
+        ]
+      },
+      "properties": {
+        "key": 5799549842,
+        "country": "Colombia",
+        "eventDate": "2025-05-25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.530012,
+          5.03529
+        ]
+      },
+      "properties": {
+        "key": 5799550178,
+        "country": "Colombia",
+        "eventDate": "2025-05-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.531302,
+          5.031435
+        ]
+      },
+      "properties": {
+        "key": 5799550830,
+        "country": "Colombia",
+        "eventDate": "2025-05-30",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.502004,
+          4.440741
+        ]
+      },
+      "properties": {
+        "key": 5829547647,
+        "country": "Colombia",
+        "eventDate": "2025-05-11",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.274475,
+          -22.960873
+        ]
+      },
+      "properties": {
+        "key": 5176713409,
+        "country": "Brazil",
+        "eventDate": "2025-06-01T07:54",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.970824,
+          -23.235389
+        ]
+      },
+      "properties": {
+        "key": 5176959831,
+        "country": "Brazil",
+        "eventDate": "2025-06-01T10:04:43",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.738653,
+          -29.733274
+        ]
+      },
+      "properties": {
+        "key": 5177251869,
+        "country": "Brazil",
+        "eventDate": "2025-06-01T16:48",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035217,
+          -12.103587
+        ]
+      },
+      "properties": {
+        "key": 5186855293,
+        "country": "Peru",
+        "eventDate": "2025-06-11",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.088197,
+          -9.170453
+        ]
+      },
+      "properties": {
+        "key": 5188469907,
+        "country": "Brazil",
+        "eventDate": "2025-06-09T11:05",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.910281,
+          -31.410244
+        ]
+      },
+      "properties": {
+        "key": 5198537532,
+        "country": "Argentina",
+        "eventDate": "2025-06-15T16:28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.088825,
+          -35.168853
+        ]
+      },
+      "properties": {
+        "key": 5198638847,
+        "country": "Argentina",
+        "eventDate": "2025-06-11T15:30:50",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069592,
+          -22.848139
+        ]
+      },
+      "properties": {
+        "key": 5198677549,
+        "country": "Brazil",
+        "eventDate": "2025-06-16T12:42:09",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.782851,
+          -15.395637
+        ]
+      },
+      "properties": {
+        "key": 5198764541,
+        "country": "Brazil",
+        "eventDate": "2025-06-04T10:07:21",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.282131,
+          -22.78834
+        ]
+      },
+      "properties": {
+        "key": 5198935453,
+        "country": "Brazil",
+        "eventDate": "2025-06-15T10:30",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.259792,
+          -20.258145
+        ]
+      },
+      "properties": {
+        "key": 5198974593,
+        "country": "Brazil",
+        "eventDate": "2025-06-12T13:19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.288102,
+          -21.761159
+        ]
+      },
+      "properties": {
+        "key": 5198981898,
+        "country": "Brazil",
+        "eventDate": "2025-06-12T07:08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.901403,
+          -18.823009
+        ]
+      },
+      "properties": {
+        "key": 5199029329,
+        "country": "Brazil",
+        "eventDate": "2025-06-13T11:28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.910429,
+          -31.410702
+        ]
+      },
+      "properties": {
+        "key": 5199067602,
+        "country": "Argentina",
+        "eventDate": "2025-06-15T13:16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022119,
+          -12.141151
+        ]
+      },
+      "properties": {
+        "key": 5199195716,
+        "country": "Peru",
+        "eventDate": "2025-06-09T11:47:05",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.901403,
+          -18.823009
+        ]
+      },
+      "properties": {
+        "key": 5199270344,
+        "country": "Brazil",
+        "eventDate": "2025-06-13T11:12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.552,
+          3.346
+        ]
+      },
+      "properties": {
+        "key": 5200540325,
+        "country": "Colombia",
+        "eventDate": "2025-06-07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.012118,
+          -19.859954
+        ]
+      },
+      "properties": {
+        "key": 5206090697,
+        "country": "Brazil",
+        "eventDate": "2025-06-21T09:06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.780218,
+          -22.824618
+        ]
+      },
+      "properties": {
+        "key": 5206181298,
+        "country": "Brazil",
+        "eventDate": "2025-06-21T15:43",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.314558,
+          -34.663339
+        ]
+      },
+      "properties": {
+        "key": 5206231150,
+        "country": "Argentina",
+        "eventDate": "2025-06-08T17:01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.786651,
+          -18.229024
+        ]
+      },
+      "properties": {
+        "key": 5206310705,
+        "country": "Brazil",
+        "eventDate": "2025-06-16T17:25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.63376,
+          -34.288008
+        ]
+      },
+      "properties": {
+        "key": 5206367998,
+        "country": "Argentina",
+        "eventDate": "2025-06-19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.048489,
+          -20.484382
+        ]
+      },
+      "properties": {
+        "key": 5206470050,
+        "country": "Brazil",
+        "eventDate": "2025-06-16T13:02",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.008812,
+          -19.85847
+        ]
+      },
+      "properties": {
+        "key": 5206478740,
+        "country": "Brazil",
+        "eventDate": "2025-06-21T08:26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.347266,
+          -23.48014
+        ]
+      },
+      "properties": {
+        "key": 5206694975,
+        "country": "Brazil",
+        "eventDate": "2025-06-19T16:05",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.973948,
+          -19.860537
+        ]
+      },
+      "properties": {
+        "key": 5206738529,
+        "country": "Brazil",
+        "eventDate": "2025-06-22T11:24",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.676034,
+          -20.411351
+        ]
+      },
+      "properties": {
+        "key": 5215869570,
+        "country": "Brazil",
+        "eventDate": "2025-06-22T09:19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.048095,
+          -5.157261
+        ]
+      },
+      "properties": {
+        "key": 5215894867,
+        "country": "Brazil",
+        "eventDate": "2025-06-17T16:01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.579331,
+          4.738036
+        ]
+      },
+      "properties": {
+        "key": 5216088192,
+        "country": "Colombia",
+        "eventDate": "2025-06-15T17:14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.774365,
+          -23.61562
+        ]
+      },
+      "properties": {
+        "key": 5216378933,
+        "country": "Brazil",
+        "eventDate": "2025-06-22T08:58",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.900181,
+          -18.823721
+        ]
+      },
+      "properties": {
+        "key": 5216512645,
+        "country": "Brazil",
+        "eventDate": "2025-06-28T09:23",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.286419,
+          -34.681923
+        ]
+      },
+      "properties": {
+        "key": 5216546750,
+        "country": "Argentina",
+        "eventDate": "2025-06-28T13:49",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.90339,
+          -18.816184
+        ]
+      },
+      "properties": {
+        "key": 5216587572,
+        "country": "Brazil",
+        "eventDate": "2025-06-28T09:08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.463677,
+          -13.801835
+        ]
+      },
+      "properties": {
+        "key": 5216621627,
+        "country": "Brazil",
+        "eventDate": "2025-06-20T15:24",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.900181,
+          -18.823721
+        ]
+      },
+      "properties": {
+        "key": 5216640612,
+        "country": "Brazil",
+        "eventDate": "2025-06-28T09:50",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.643752,
+          -3.71152
+        ]
+      },
+      "properties": {
+        "key": 5217480268,
+        "country": "Brazil",
+        "eventDate": "2025-06-28T11:05",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.921202,
+          -15.773179
+        ]
+      },
+      "properties": {
+        "key": 5231459794,
+        "country": "Brazil",
+        "eventDate": "2025-06-23",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.497427,
+          5.360807
+        ]
+      },
+      "properties": {
+        "key": 5285664652,
+        "country": "Colombia",
+        "eventDate": "2025-06-22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.498172,
+          5.364611
+        ]
+      },
+      "properties": {
+        "key": 5285664809,
+        "country": "Colombia",
+        "eventDate": "2025-06-24",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.053642,
+          -12.104696
+        ]
+      },
+      "properties": {
+        "key": 5287979050,
+        "country": "Peru",
+        "eventDate": "2025-06-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.050922,
+          -12.107276
+        ]
+      },
+      "properties": {
+        "key": 5288007746,
+        "country": "Peru",
+        "eventDate": "2025-06-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.063867,
+          -12.095399
+        ]
+      },
+      "properties": {
+        "key": 5288412786,
+        "country": "Peru",
+        "eventDate": "2025-06-29",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.821863,
+          -18.985286
+        ]
+      },
+      "properties": {
+        "key": 5292232137,
+        "country": "Brazil",
+        "eventDate": "2025-06-07T08:02",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.183161,
+          -22.941026
+        ]
+      },
+      "properties": {
+        "key": 5292258304,
+        "country": "Brazil",
+        "eventDate": "2025-06-03T10:38",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.159523,
+          -12.072956
+        ]
+      },
+      "properties": {
+        "key": 5761012521,
+        "country": "Peru",
+        "eventDate": "2025-06-08T13:44",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.214623,
+          5.171068
+        ]
+      },
+      "properties": {
+        "key": 5799552001,
+        "country": "Colombia",
+        "eventDate": "2025-06-08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21627,
+          5.14303
+        ]
+      },
+      "properties": {
+        "key": 5799552551,
+        "country": "Colombia",
+        "eventDate": "2025-06-05",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.248917,
+          5.148282
+        ]
+      },
+      "properties": {
+        "key": 5799552591,
+        "country": "Colombia",
+        "eventDate": "2025-06-11",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.216712,
+          5.143002
+        ]
+      },
+      "properties": {
+        "key": 5799552905,
+        "country": "Colombia",
+        "eventDate": "2025-06-06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.260107,
+          5.155018
+        ]
+      },
+      "properties": {
+        "key": 5799553246,
+        "country": "Colombia",
+        "eventDate": "2025-06-10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.863937,
+          -19.171494
+        ]
+      },
+      "properties": {
+        "key": 5215956706,
+        "country": "Brazil",
+        "eventDate": "2025-07-02T10:10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.863937,
+          -19.171494
+        ]
+      },
+      "properties": {
+        "key": 5217286784,
+        "country": "Brazil",
+        "eventDate": "2025-07-02T09:09",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.324663,
+          4.894624
+        ]
+      },
+      "properties": {
+        "key": 5217379203,
+        "country": "French Guiana",
+        "eventDate": "2025-07-05T06:30",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.863937,
+          -19.171494
+        ]
+      },
+      "properties": {
+        "key": 5217463774,
+        "country": "Brazil",
+        "eventDate": "2025-07-02T08:43",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.863937,
+          -19.171494
+        ]
+      },
+      "properties": {
+        "key": 5217540721,
+        "country": "Brazil",
+        "eventDate": "2025-07-02T08:10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.933073,
+          -34.904912
+        ]
+      },
+      "properties": {
+        "key": 5229983134,
+        "country": "Argentina",
+        "eventDate": "2025-07-09T13:40",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.582727,
+          -1.352569
+        ]
+      },
+      "properties": {
+        "key": 5230408363,
+        "country": "Ecuador",
+        "eventDate": "2025-07-10T21:23",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.278375,
+          4.923148
+        ]
+      },
+      "properties": {
+        "key": 5230468326,
+        "country": "French Guiana",
+        "eventDate": "2025-07-15T07:12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.374531,
+          8.388084
+        ]
+      },
+      "properties": {
+        "key": 5230472784,
+        "country": "Panama",
+        "eventDate": "2025-07-18T11:11",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.291396,
+          -21.812167
+        ]
+      },
+      "properties": {
+        "key": 5230520339,
+        "country": "Brazil",
+        "eventDate": "2025-07-13T08:09",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.520299,
+          -34.782855
+        ]
+      },
+      "properties": {
+        "key": 5230581790,
+        "country": "Argentina",
+        "eventDate": "2025-07-04",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.36058,
+          -18.918211
+        ]
+      },
+      "properties": {
+        "key": 5230776486,
+        "country": "Brazil",
+        "eventDate": "2025-07-12T11:13",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.940804,
+          -7.448696
+        ]
+      },
+      "properties": {
+        "key": 5231197706,
+        "country": "Peru",
+        "eventDate": "2025-07-07T16:02",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.584254,
+          8.65087
+        ]
+      },
+      "properties": {
+        "key": 5231684852,
+        "country": "Panama",
+        "eventDate": "2025-07-13T12:54",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95583,
+          -24.286956
+        ]
+      },
+      "properties": {
+        "key": 5237505645,
+        "country": "Brazil",
+        "eventDate": "2025-07-21T14:03",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.094105,
+          -18.77104
+        ]
+      },
+      "properties": {
+        "key": 5237506169,
+        "country": "Brazil",
+        "eventDate": "2025-07-23T07:05",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.829401,
+          -9.676113
+        ]
+      },
+      "properties": {
+        "key": 5237578668,
+        "country": "Brazil",
+        "eventDate": "2025-07-27T07:59",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.79732,
+          -15.828686
+        ]
+      },
+      "properties": {
+        "key": 5237585356,
+        "country": "Brazil",
+        "eventDate": "2025-07-26T15:49",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08085,
+          -12.069594
+        ]
+      },
+      "properties": {
+        "key": 5237719224,
+        "country": "Peru",
+        "eventDate": "2025-07-25T14:41",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.080861,
+          -12.067347
+        ]
+      },
+      "properties": {
+        "key": 5237794711,
+        "country": "Peru",
+        "eventDate": "2025-07-22T15:55",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.98758,
+          -22.683046
+        ]
+      },
+      "properties": {
+        "key": 5237882056,
+        "country": "Brazil",
+        "eventDate": "2025-07-24T10:02",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.333056,
+          4.816111
+        ]
+      },
+      "properties": {
+        "key": 5237973537,
+        "country": "French Guiana",
+        "eventDate": "2025-07-27T11:44",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.717776,
+          -18.817929
+        ]
+      },
+      "properties": {
+        "key": 5237992618,
+        "country": "Brazil",
+        "eventDate": "2025-07-26T11:14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.070505,
+          -12.098521
+        ]
+      },
+      "properties": {
+        "key": 5238116281,
+        "country": "Peru",
+        "eventDate": "2025-07-26T09:29",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    }
+  ],
+  "bbox": [
+    -84.518634,
+    -35.168853,
+    -35.829401,
+    11.05631
+  ]
+}

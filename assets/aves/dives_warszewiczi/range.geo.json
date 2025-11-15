@@ -1,0 +1,843 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47949,
+          -2.54062
+        ]
+      },
+      "properties": {
+        "key": 4463077376,
+        "country": "Ecuador",
+        "eventDate": "2022-02-25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.876,
+          -0.0301
+        ]
+      },
+      "properties": {
+        "key": 1147148383,
+        "country": "Ecuador",
+        "eventDate": "2012-07-08",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.778267,
+          -7.398033
+        ]
+      },
+      "properties": {
+        "key": 5148920750,
+        "country": "Peru",
+        "eventDate": "2010-07-17",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.779783,
+          -7.403833
+        ]
+      },
+      "properties": {
+        "key": 5148920792,
+        "country": "Peru",
+        "eventDate": "2010-07-20",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7675,
+          -5.683833
+        ]
+      },
+      "properties": {
+        "key": 2872900537,
+        "country": "Peru",
+        "eventDate": "2010-10-14",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4886,
+          -3.8169
+        ]
+      },
+      "properties": {
+        "key": 3415158944,
+        "country": "Peru",
+        "eventDate": "2009-06-03",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4886,
+          -3.8169
+        ]
+      },
+      "properties": {
+        "key": 3415160941,
+        "country": "Peru",
+        "eventDate": "2009-07-03",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7111,
+          -3.7578
+        ]
+      },
+      "properties": {
+        "key": 5295047810,
+        "country": "Peru",
+        "eventDate": "2009-07-02",
+        "basisOfRecord": "MATERIAL_SAMPLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.78355,
+          -5.89503
+        ]
+      },
+      "properties": {
+        "key": 5148891690,
+        "country": "Peru",
+        "eventDate": "2009-12-20",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.78381,
+          -5.89612
+        ]
+      },
+      "properties": {
+        "key": 5148891786,
+        "country": "Peru",
+        "eventDate": "2009-12-25",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.608833,
+          -11.744167
+        ]
+      },
+      "properties": {
+        "key": 5148897667,
+        "country": "Peru",
+        "eventDate": "2008-05-28",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650783,
+          -12.0295
+        ]
+      },
+      "properties": {
+        "key": 5148906414,
+        "country": "Peru",
+        "eventDate": "2008-10-15",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03,
+          -2.16
+        ]
+      },
+      "properties": {
+        "key": 1147111672,
+        "country": "Ecuador",
+        "eventDate": "2002-03-08",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.717,
+          -1.567
+        ]
+      },
+      "properties": {
+        "key": 197082930,
+        "country": "Ecuador",
+        "eventDate": "1991-01-18",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7,
+          -1.6
+        ]
+      },
+      "properties": {
+        "key": 197083392,
+        "country": "Ecuador",
+        "eventDate": "1991-01-18",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.21,
+          -0.35
+        ]
+      },
+      "properties": {
+        "key": 197083399,
+        "country": "Ecuador",
+        "eventDate": "1991-01-17",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.033,
+          -2.167
+        ]
+      },
+      "properties": {
+        "key": 197083407,
+        "country": "Ecuador",
+        "eventDate": "1991-01-17",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7,
+          -1.6
+        ]
+      },
+      "properties": {
+        "key": 1147145852,
+        "country": "Ecuador",
+        "eventDate": "1991-01-22",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7,
+          -1.6
+        ]
+      },
+      "properties": {
+        "key": 1147149749,
+        "country": "Ecuador",
+        "eventDate": "1991-01-22",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05,
+          -3.55
+        ]
+      },
+      "properties": {
+        "key": 197082680,
+        "country": "Ecuador",
+        "eventDate": "1991-07-12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05,
+          -3.55
+        ]
+      },
+      "properties": {
+        "key": 197082926,
+        "country": "Ecuador",
+        "eventDate": "1991-07-12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35,
+          -2.567
+        ]
+      },
+      "properties": {
+        "key": 197083398,
+        "country": "Ecuador",
+        "eventDate": "1991-07-10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.583,
+          -1.333
+        ]
+      },
+      "properties": {
+        "key": 197083400,
+        "country": "Ecuador",
+        "eventDate": "1991-07-06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7,
+          -3.7
+        ]
+      },
+      "properties": {
+        "key": 1147045827,
+        "country": "Ecuador",
+        "eventDate": "1990-07-04",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.866667,
+          -4.166667
+        ]
+      },
+      "properties": {
+        "key": 1147078428,
+        "country": "Ecuador",
+        "eventDate": "1989-08-17",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.866667,
+          -4.166667
+        ]
+      },
+      "properties": {
+        "key": 1147225527,
+        "country": "Ecuador",
+        "eventDate": "1989-08-22",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.866667,
+          -4.166667
+        ]
+      },
+      "properties": {
+        "key": 1147234546,
+        "country": "Ecuador",
+        "eventDate": "1989-08-19",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.866667,
+          -4.166667
+        ]
+      },
+      "properties": {
+        "key": 4527222588,
+        "country": "Ecuador",
+        "eventDate": "1989-08-22",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.866667,
+          -4.166667
+        ]
+      },
+      "properties": {
+        "key": 4527271931,
+        "country": "Ecuador",
+        "eventDate": "1989-08-24",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.866667,
+          -4.166667
+        ]
+      },
+      "properties": {
+        "key": 4527287557,
+        "country": "Ecuador",
+        "eventDate": "1989-08-23",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.999658,
+          -4.149388
+        ]
+      },
+      "properties": {
+        "key": 4527309617,
+        "country": "Ecuador",
+        "eventDate": "1989-08-23",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.866667,
+          -4.166667
+        ]
+      },
+      "properties": {
+        "key": 4527340375,
+        "country": "Ecuador",
+        "eventDate": "1989-08-24",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5,
+          -9.5
+        ]
+      },
+      "properties": {
+        "key": 1147101280,
+        "country": "Peru",
+        "eventDate": "1987-08-26",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.133333,
+          -0.3
+        ]
+      },
+      "properties": {
+        "key": 1147110156,
+        "country": "Ecuador",
+        "eventDate": "1981-02-26",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.75,
+          -5.9
+        ]
+      },
+      "properties": {
+        "key": 1147130544,
+        "country": "Peru",
+        "eventDate": "1981-02-21",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.133333,
+          -0.3
+        ]
+      },
+      "properties": {
+        "key": 1147212983,
+        "country": "Ecuador",
+        "eventDate": "1981-03-03",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5,
+          -11.67
+        ]
+      },
+      "properties": {
+        "key": 1147039102,
+        "country": "Peru",
+        "eventDate": "1980-05-31",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5,
+          -11.67
+        ]
+      },
+      "properties": {
+        "key": 1147103876,
+        "country": "Peru",
+        "eventDate": "1980-05-31",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5,
+          -11.67
+        ]
+      },
+      "properties": {
+        "key": 1147217117,
+        "country": "Peru",
+        "eventDate": "1980-05-31",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.92,
+          -5.67
+        ]
+      },
+      "properties": {
+        "key": 1147073707,
+        "country": "Peru",
+        "eventDate": "1980-08-07",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.92,
+          -5.67
+        ]
+      },
+      "properties": {
+        "key": 1147106794,
+        "country": "Peru",
+        "eventDate": "1980-08-07",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.92,
+          -5.67
+        ]
+      },
+      "properties": {
+        "key": 1147152716,
+        "country": "Peru",
+        "eventDate": "1980-08-12",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.92,
+          -5.67
+        ]
+      },
+      "properties": {
+        "key": 1147165109,
+        "country": "Peru",
+        "eventDate": "1980-08-07",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7,
+          -11.9
+        ]
+      },
+      "properties": {
+        "key": 1147152399,
+        "country": "Peru",
+        "eventDate": "1978-04-22",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0,
+          -6.0
+        ]
+      },
+      "properties": {
+        "key": 1147198467,
+        "country": "Peru",
+        "eventDate": "1977-09-19",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0,
+          -6.0
+        ]
+      },
+      "properties": {
+        "key": 1147207801,
+        "country": "Peru",
+        "eventDate": "1977-09",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0,
+          -6.0
+        ]
+      },
+      "properties": {
+        "key": 1147211530,
+        "country": "Peru",
+        "eventDate": "1977-09-19",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0,
+          -6.0
+        ]
+      },
+      "properties": {
+        "key": 1147239692,
+        "country": "Peru",
+        "eventDate": "1977-09-23",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5,
+          -11.67
+        ]
+      },
+      "properties": {
+        "key": 1147120340,
+        "country": "Peru",
+        "eventDate": "1974-09",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.46667,
+          -12.11667
+        ]
+      },
+      "properties": {
+        "key": 5146841933,
+        "country": "Peru",
+        "eventDate": "1969-05-11",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45167,
+          -5.24444
+        ]
+      },
+      "properties": {
+        "key": 5146886831,
+        "country": "Peru",
+        "eventDate": "1964-09-15",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.583336,
+          -1.333333
+        ]
+      },
+      "properties": {
+        "key": 735695701,
+        "country": "Ecuador",
+        "eventDate": "1947-07-22",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    }
+  ],
+  "bbox": [
+    -80.717,
+    -12.11667,
+    -76.46667,
+    -0.0301
+  ]
+}

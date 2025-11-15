@@ -1,0 +1,5067 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3552,
+          3.5026
+        ]
+      },
+      "properties": {
+        "key": 4862941341,
+        "country": "Colombia",
+        "eventDate": "2024-03-15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.580829,
+          4.01667
+        ]
+      },
+      "properties": {
+        "key": 5060353466,
+        "country": "Colombia",
+        "eventDate": "2024-03-08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3534,
+          3.504133
+        ]
+      },
+      "properties": {
+        "key": 5052292230,
+        "country": "Colombia",
+        "eventDate": "2024-04-03",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.050945,
+          4.528472
+        ]
+      },
+      "properties": {
+        "key": 5060995651,
+        "country": "Colombia",
+        "eventDate": "2024-04-29",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.712607,
+          4.726235
+        ]
+      },
+      "properties": {
+        "key": 5004212372,
+        "country": "Colombia",
+        "eventDate": "2024-07-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.359259,
+          4.335618
+        ]
+      },
+      "properties": {
+        "key": 4998322304,
+        "country": "Colombia",
+        "eventDate": "2023-01-14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.802377,
+          6.162775
+        ]
+      },
+      "properties": {
+        "key": 4927109886,
+        "country": "Colombia",
+        "eventDate": "2023-03-11",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.822942,
+          6.116177
+        ]
+      },
+      "properties": {
+        "key": 4927110139,
+        "country": "Colombia",
+        "eventDate": "2023-03-19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.82984,
+          5.559666
+        ]
+      },
+      "properties": {
+        "key": 5106099511,
+        "country": "Colombia",
+        "eventDate": "2023-04-26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.740539,
+          17.674367
+        ]
+      },
+      "properties": {
+        "key": 4462004643,
+        "country": "Mexico",
+        "eventDate": "2023-05-26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.352947,
+          4.205172
+        ]
+      },
+      "properties": {
+        "key": 4513358331,
+        "country": "Colombia",
+        "eventDate": "2023-06-19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.304115,
+          4.039186
+        ]
+      },
+      "properties": {
+        "key": 4513358363,
+        "country": "Colombia",
+        "eventDate": "2023-06-17",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.408983,
+          5.734817
+        ]
+      },
+      "properties": {
+        "key": 4537184326,
+        "country": "Colombia",
+        "eventDate": "2023-06-05",
+        "basisOfRecord": "MATERIAL_SAMPLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.083633,
+          5.178017
+        ]
+      },
+      "properties": {
+        "key": 4537184443,
+        "country": "Colombia",
+        "eventDate": "2023-06-24",
+        "basisOfRecord": "MATERIAL_SAMPLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.083633,
+          5.178017
+        ]
+      },
+      "properties": {
+        "key": 4537188464,
+        "country": "Colombia",
+        "eventDate": "2023-06-24",
+        "basisOfRecord": "MATERIAL_SAMPLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.408983,
+          5.734817
+        ]
+      },
+      "properties": {
+        "key": 4537188489,
+        "country": "Colombia",
+        "eventDate": "2023-06-05",
+        "basisOfRecord": "MATERIAL_SAMPLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3661,
+          -12.0224
+        ]
+      },
+      "properties": {
+        "key": 4432978404,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "2023-09-03",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3661,
+          -12.0224
+        ]
+      },
+      "properties": {
+        "key": 4432980425,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "2023-09-03",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.7375,
+          -11.0362
+        ]
+      },
+      "properties": {
+        "key": 4524631379,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "2023-10-20",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.634143,
+          1.720943
+        ]
+      },
+      "properties": {
+        "key": 4903300334,
+        "country": "Colombia",
+        "eventDate": "2023-12-19",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.634143,
+          1.720943
+        ]
+      },
+      "properties": {
+        "key": 4903300336,
+        "country": "Colombia",
+        "eventDate": "2023-12-19",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.634143,
+          1.720943
+        ]
+      },
+      "properties": {
+        "key": 4903300337,
+        "country": "Colombia",
+        "eventDate": "2023-12-22",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.634143,
+          1.720943
+        ]
+      },
+      "properties": {
+        "key": 4903300338,
+        "country": "Colombia",
+        "eventDate": "2023-12-18",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.634143,
+          1.720943
+        ]
+      },
+      "properties": {
+        "key": 4903300339,
+        "country": "Colombia",
+        "eventDate": "2023-12-25",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.588642,
+          4.576557
+        ]
+      },
+      "properties": {
+        "key": 5004131910,
+        "country": "Colombia",
+        "eventDate": "2023-10-31/2023-11-10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.651167,
+          4.447579
+        ]
+      },
+      "properties": {
+        "key": 5004132284,
+        "country": "Colombia",
+        "eventDate": "2023-10-31/2023-11-10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.582875,
+          4.584355
+        ]
+      },
+      "properties": {
+        "key": 5004132383,
+        "country": "Colombia",
+        "eventDate": "2023-10-31/2023-11-10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6689,
+          6.13979
+        ]
+      },
+      "properties": {
+        "key": 4399725699,
+        "country": "Colombia",
+        "eventDate": "2022-02-05/2022-02-26",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6689,
+          6.13979
+        ]
+      },
+      "properties": {
+        "key": 4399740190,
+        "country": "Colombia",
+        "eventDate": "2022-02-05/2022-02-26",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6689,
+          6.13979
+        ]
+      },
+      "properties": {
+        "key": 4399793435,
+        "country": "Colombia",
+        "eventDate": "2022-02-05/2022-02-26",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.380419,
+          3.53795
+        ]
+      },
+      "properties": {
+        "key": 4904865491,
+        "country": "Colombia",
+        "eventDate": "2022-08-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.047861,
+          4.331555
+        ]
+      },
+      "properties": {
+        "key": 4998321583,
+        "country": "Colombia",
+        "eventDate": "2022-12-15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.454698,
+          4.191397
+        ]
+      },
+      "properties": {
+        "key": 4998324007,
+        "country": "Colombia",
+        "eventDate": "2022-12-03",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6813,
+          6.11213
+        ]
+      },
+      "properties": {
+        "key": 4399738249,
+        "country": "Colombia",
+        "eventDate": "2022-02-05/2022-03-04",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6813,
+          6.11213
+        ]
+      },
+      "properties": {
+        "key": 4399742065,
+        "country": "Colombia",
+        "eventDate": "2022-02-05/2022-03-04",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6813,
+          6.11213
+        ]
+      },
+      "properties": {
+        "key": 4399779685,
+        "country": "Colombia",
+        "eventDate": "2022-02-05/2022-03-04",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6813,
+          6.11213
+        ]
+      },
+      "properties": {
+        "key": 4399786564,
+        "country": "Colombia",
+        "eventDate": "2022-02-05/2022-03-04",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6813,
+          6.11213
+        ]
+      },
+      "properties": {
+        "key": 4399792646,
+        "country": "Colombia",
+        "eventDate": "2022-02-05/2022-03-04",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6813,
+          6.11213
+        ]
+      },
+      "properties": {
+        "key": 4399804843,
+        "country": "Colombia",
+        "eventDate": "2022-02-05/2022-03-04",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6813,
+          6.11213
+        ]
+      },
+      "properties": {
+        "key": 4399812481,
+        "country": "Colombia",
+        "eventDate": "2022-02-05/2022-03-04",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6813,
+          6.11213
+        ]
+      },
+      "properties": {
+        "key": 4399814788,
+        "country": "Colombia",
+        "eventDate": "2022-02-05/2022-03-04",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3671,
+          4.7994
+        ]
+      },
+      "properties": {
+        "key": 3076277541,
+        "country": "French Guiana",
+        "eventDate": "2021-02-09",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.271662,
+          -14.457828
+        ]
+      },
+      "properties": {
+        "key": 5100898489,
+        "country": "Brazil",
+        "eventDate": "2021-02-23",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.058,
+          4.4938
+        ]
+      },
+      "properties": {
+        "key": 3353660598,
+        "country": "French Guiana",
+        "eventDate": "2021-08-14",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2802,
+          -16.6003
+        ]
+      },
+      "properties": {
+        "key": 3353660672,
+        "country": "Brazil",
+        "eventDate": "2021-08-26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6954,
+          -16.7628
+        ]
+      },
+      "properties": {
+        "key": 3406514488,
+        "country": "Brazil",
+        "eventDate": "2021-10-18",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.485742,
+          -13.813964
+        ]
+      },
+      "properties": {
+        "key": 5100904599,
+        "country": "Brazil",
+        "eventDate": "2021-10-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.299888,
+          -14.443868
+        ]
+      },
+      "properties": {
+        "key": 5100960849,
+        "country": "Brazil",
+        "eventDate": "2021-11-25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9488,
+          -15.9674
+        ]
+      },
+      "properties": {
+        "key": 2992208404,
+        "country": "Brazil",
+        "eventDate": "2020-09-27",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.486597,
+          -13.813094
+        ]
+      },
+      "properties": {
+        "key": 5100918337,
+        "country": "Brazil",
+        "eventDate": "2020-10-31",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.63439,
+          -13.092891
+        ]
+      },
+      "properties": {
+        "key": 5100989009,
+        "country": "Brazil",
+        "eventDate": "2020-10-29",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3671,
+          4.7994
+        ]
+      },
+      "properties": {
+        "key": 3076283538,
+        "country": "French Guiana",
+        "eventDate": "2020-11-16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.662932,
+          -13.253509
+        ]
+      },
+      "properties": {
+        "key": 5100897202,
+        "country": "Brazil",
+        "eventDate": "2020-11-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.415541,
+          -14.330025
+        ]
+      },
+      "properties": {
+        "key": 5100970393,
+        "country": "Brazil",
+        "eventDate": "2020-11-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2802,
+          -16.6003
+        ]
+      },
+      "properties": {
+        "key": 2432447264,
+        "country": "Brazil",
+        "eventDate": "2019-09-16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2802,
+          -16.6003
+        ]
+      },
+      "properties": {
+        "key": 2455252234,
+        "country": "Brazil",
+        "eventDate": "2019-09-19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2802,
+          -16.6003
+        ]
+      },
+      "properties": {
+        "key": 2455252235,
+        "country": "Brazil",
+        "eventDate": "2019-09-21",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2802,
+          -16.6003
+        ]
+      },
+      "properties": {
+        "key": 2455253331,
+        "country": "Brazil",
+        "eventDate": "2019-09-21",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0384,
+          -22.9511
+        ]
+      },
+      "properties": {
+        "key": 2455253282,
+        "country": "Brazil",
+        "eventDate": "2019-10-12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.99164,
+          -16.89493
+        ]
+      },
+      "properties": {
+        "key": 2848567704,
+        "country": "Brazil",
+        "eventDate": "2019-10-09",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.99164,
+          -16.89493
+        ]
+      },
+      "properties": {
+        "key": 2848591689,
+        "country": "Brazil",
+        "eventDate": "2019-10-09",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.020161,
+          -19.2549
+        ]
+      },
+      "properties": {
+        "key": 3716253646,
+        "country": "Brazil",
+        "eventDate": "2019-10-24",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.02047,
+          -19.254892
+        ]
+      },
+      "properties": {
+        "key": 3725506692,
+        "country": "Brazil",
+        "eventDate": "2019-10-24",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.020161,
+          -19.2549
+        ]
+      },
+      "properties": {
+        "key": 3726016660,
+        "country": "Brazil",
+        "eventDate": "2019-10-24",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0104,
+          -16.8632
+        ]
+      },
+      "properties": {
+        "key": 2848558814,
+        "country": "Brazil",
+        "eventDate": "2019-11-19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.485489,
+          -13.762582
+        ]
+      },
+      "properties": {
+        "key": 5100956367,
+        "country": "Brazil",
+        "eventDate": "2019-11-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2802,
+          -16.6003
+        ]
+      },
+      "properties": {
+        "key": 2609675994,
+        "country": "Brazil",
+        "eventDate": "2019-12-10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35271,
+          3.869917
+        ]
+      },
+      "properties": {
+        "key": 1950924126,
+        "country": "Colombia",
+        "eventDate": "2018-09-10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35271,
+          3.869917
+        ]
+      },
+      "properties": {
+        "key": 1950924151,
+        "country": "Colombia",
+        "eventDate": "2018-09-10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8953,
+          -11.9787
+        ]
+      },
+      "properties": {
+        "key": 2243829285,
+        "country": "Brazil",
+        "eventDate": "2018-10-26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3836,
+          -21.1724
+        ]
+      },
+      "properties": {
+        "key": 2243829601,
+        "country": "Brazil",
+        "eventDate": "2018-10-24",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.32624,
+          4.94032
+        ]
+      },
+      "properties": {
+        "key": 3842196698,
+        "country": "French Guiana",
+        "eventDate": "2018-10-30",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.32624,
+          4.94032
+        ]
+      },
+      "properties": {
+        "key": 3842196714,
+        "country": "French Guiana",
+        "eventDate": "2018-10-30",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.32624,
+          4.94032
+        ]
+      },
+      "properties": {
+        "key": 3842196733,
+        "country": "French Guiana",
+        "eventDate": "2018-10-30",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.32624,
+          4.94032
+        ]
+      },
+      "properties": {
+        "key": 3842196778,
+        "country": "French Guiana",
+        "eventDate": "2018-10-30",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.32624,
+          4.94032
+        ]
+      },
+      "properties": {
+        "key": 3842196813,
+        "country": "French Guiana",
+        "eventDate": "2018-10-30",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.23477,
+          3.92404
+        ]
+      },
+      "properties": {
+        "key": 3842206447,
+        "country": "French Guiana",
+        "eventDate": "2018-10-26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.555733,
+          4.398
+        ]
+      },
+      "properties": {
+        "key": 5006658354,
+        "country": "Colombia",
+        "eventDate": "2017-02-08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.468,
+          5.554
+        ]
+      },
+      "properties": {
+        "key": 1899067399,
+        "country": "Colombia",
+        "eventDate": "2017-04-08",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.468,
+          5.554
+        ]
+      },
+      "properties": {
+        "key": 1899067414,
+        "country": "Colombia",
+        "eventDate": "2017-04-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.466558,
+          5.557869
+        ]
+      },
+      "properties": {
+        "key": 1899067668,
+        "country": "Colombia",
+        "eventDate": "2017-04-06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.46424,
+          5.553876
+        ]
+      },
+      "properties": {
+        "key": 1899067763,
+        "country": "Colombia",
+        "eventDate": "2017-04-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.468,
+          5.554
+        ]
+      },
+      "properties": {
+        "key": 4026662142,
+        "country": "Colombia",
+        "eventDate": "2017-04-08",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.468,
+          5.554
+        ]
+      },
+      "properties": {
+        "key": 4026662147,
+        "country": "Colombia",
+        "eventDate": "2017-04-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.468,
+          5.554
+        ]
+      },
+      "properties": {
+        "key": 4979175628,
+        "country": "Colombia",
+        "eventDate": "2017-04-08",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.468,
+          5.554
+        ]
+      },
+      "properties": {
+        "key": 4979177409,
+        "country": "Colombia",
+        "eventDate": "2017-04-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9073,
+          14.9321
+        ]
+      },
+      "properties": {
+        "key": 2243767539,
+        "country": "Honduras",
+        "eventDate": "2017-05-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2067,
+          -1.0951
+        ]
+      },
+      "properties": {
+        "key": 2243780123,
+        "country": "Brazil",
+        "eventDate": "2017-06-26",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6093,
+          -15.4525
+        ]
+      },
+      "properties": {
+        "key": 2243794827,
+        "country": "Brazil",
+        "eventDate": "2017-10-07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5653,
+          18.0024
+        ]
+      },
+      "properties": {
+        "key": 2243712651,
+        "country": "Mexico",
+        "eventDate": "2016-04-06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5653,
+          18.0024
+        ]
+      },
+      "properties": {
+        "key": 2243715288,
+        "country": "Mexico",
+        "eventDate": "2016-04-07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5653,
+          18.0024
+        ]
+      },
+      "properties": {
+        "key": 2243715677,
+        "country": "Mexico",
+        "eventDate": "2016-04-18",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5653,
+          18.0024
+        ]
+      },
+      "properties": {
+        "key": 2243715727,
+        "country": "Mexico",
+        "eventDate": "2016-04-18",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5653,
+          18.0024
+        ]
+      },
+      "properties": {
+        "key": 2243717321,
+        "country": "Mexico",
+        "eventDate": "2016-05-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.72866,
+          -7.41419
+        ]
+      },
+      "properties": {
+        "key": 4527222840,
+        "country": "Brazil",
+        "eventDate": "2016-06-15",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.511238,
+          -18.989021
+        ]
+      },
+      "properties": {
+        "key": 4112452829,
+        "country": "Brazil",
+        "eventDate": "2016-08-13",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.09,
+          -21.3734
+        ]
+      },
+      "properties": {
+        "key": 2243859949,
+        "country": "Brazil",
+        "eventDate": "2016-11-12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.498683,
+          5.914417
+        ]
+      },
+      "properties": {
+        "key": 1090383212,
+        "country": "Colombia",
+        "eventDate": "2015-02-17",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4998,
+          -13.8259
+        ]
+      },
+      "properties": {
+        "key": 2432415026,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "2015-09-16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.32092,
+          5.2731
+        ]
+      },
+      "properties": {
+        "key": 3493362265,
+        "country": "French Guiana",
+        "eventDate": "2014-05-25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.32092,
+          5.2731
+        ]
+      },
+      "properties": {
+        "key": 3494415334,
+        "country": "French Guiana",
+        "eventDate": "2014-07-13",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.521667,
+          -9.700833
+        ]
+      },
+      "properties": {
+        "key": 1949965316,
+        "country": "Brazil",
+        "eventDate": "2014-09-11",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0916,
+          -5.9805
+        ]
+      },
+      "properties": {
+        "key": 1147170047,
+        "country": "Peru",
+        "eventDate": "2014-10-08",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0916,
+          -5.9805
+        ]
+      },
+      "properties": {
+        "key": 1147195424,
+        "country": "Peru",
+        "eventDate": "2014-10-08",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0918,
+          -5.9678
+        ]
+      },
+      "properties": {
+        "key": 2243620663,
+        "country": "Peru",
+        "eventDate": "2014-10-08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.832473,
+          3.772026
+        ]
+      },
+      "properties": {
+        "key": 5131135381,
+        "country": "Colombia",
+        "eventDate": "2014-10-07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62825,
+          2.380889
+        ]
+      },
+      "properties": {
+        "key": 1571713365,
+        "country": "Colombia",
+        "eventDate": "2013-01-16",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.72569,
+          4.94635
+        ]
+      },
+      "properties": {
+        "key": 3310602638,
+        "country": "French Guiana",
+        "eventDate": "2013",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.32092,
+          5.2731
+        ]
+      },
+      "properties": {
+        "key": 3494695744,
+        "country": "French Guiana",
+        "eventDate": "2012-03-19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.873268,
+          -12.877344
+        ]
+      },
+      "properties": {
+        "key": 1147221524,
+        "country": "Peru",
+        "eventDate": "2012-07-31",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.787886,
+          -22.47592
+        ]
+      },
+      "properties": {
+        "key": 3714726103,
+        "country": "Brazil",
+        "eventDate": "2012-07-22",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.873268,
+          -12.877344
+        ]
+      },
+      "properties": {
+        "key": 1147250201,
+        "country": "Peru",
+        "eventDate": "2012-08-05",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9714,
+          -23.1986
+        ]
+      },
+      "properties": {
+        "key": 2243562885,
+        "country": "Brazil",
+        "eventDate": "2012-09-19",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.665948,
+          2.311225
+        ]
+      },
+      "properties": {
+        "key": 1571713412,
+        "country": "Colombia",
+        "eventDate": "2012-12-06",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.32092,
+          5.2731
+        ]
+      },
+      "properties": {
+        "key": 3493173418,
+        "country": "French Guiana",
+        "eventDate": "2012-12-29",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.730683,
+          5.140883
+        ]
+      },
+      "properties": {
+        "key": 2332536759,
+        "country": "Colombia",
+        "eventDate": "2012-05-01/2012-06-30",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.206508,
+          7.405014
+        ]
+      },
+      "properties": {
+        "key": 1147054467,
+        "country": "Venezuela (Bolivarian Republic of)",
+        "eventDate": "2011-03-08",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.206508,
+          7.405014
+        ]
+      },
+      "properties": {
+        "key": 1147065975,
+        "country": "Venezuela (Bolivarian Republic of)",
+        "eventDate": "2011-03-08",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.206508,
+          7.405014
+        ]
+      },
+      "properties": {
+        "key": 1147164704,
+        "country": "Venezuela (Bolivarian Republic of)",
+        "eventDate": "2011-03-08",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.32092,
+          5.2731
+        ]
+      },
+      "properties": {
+        "key": 3494489905,
+        "country": "French Guiana",
+        "eventDate": "2011-04-10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.565334,
+          18.002407
+        ]
+      },
+      "properties": {
+        "key": 2243880047,
+        "country": "Mexico",
+        "eventDate": "2011-05-25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.521667,
+          -9.700833
+        ]
+      },
+      "properties": {
+        "key": 1949964655,
+        "country": "Brazil",
+        "eventDate": "2011-09-10",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.521667,
+          -9.700833
+        ]
+      },
+      "properties": {
+        "key": 1949964967,
+        "country": "Brazil",
+        "eventDate": "2011-09-10",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.8764,
+          -16.7581
+        ]
+      },
+      "properties": {
+        "key": 2243566146,
+        "country": "Brazil",
+        "eventDate": "2011-09-03",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2959,
+          -9.2219
+        ]
+      },
+      "properties": {
+        "key": 2432416903,
+        "country": "Brazil",
+        "eventDate": "2011-09-08",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9613,
+          -23.2119
+        ]
+      },
+      "properties": {
+        "key": 2609692092,
+        "country": "Brazil",
+        "eventDate": "2011-09-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.239,
+          4.185
+        ]
+      },
+      "properties": {
+        "key": 2243850243,
+        "country": "Colombia",
+        "eventDate": "2010-03-13",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5228,
+          0.1917
+        ]
+      },
+      "properties": {
+        "key": 2432409162,
+        "country": "Brazil",
+        "eventDate": "2010-07-16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.363,
+          -10.2232
+        ]
+      },
+      "properties": {
+        "key": 2432403067,
+        "country": "Brazil",
+        "eventDate": "2010-08-04",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9228,
+          4.1551
+        ]
+      },
+      "properties": {
+        "key": 2848587480,
+        "country": "Colombia",
+        "eventDate": "2010-10-12",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.32092,
+          5.2731
+        ]
+      },
+      "properties": {
+        "key": 3495247892,
+        "country": "French Guiana",
+        "eventDate": "2010-12-04",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.565334,
+          18.002407
+        ]
+      },
+      "properties": {
+        "key": 2243720855,
+        "country": "Mexico",
+        "eventDate": "2009-04-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.391206,
+          4.893583
+        ]
+      },
+      "properties": {
+        "key": 699455527,
+        "country": "Colombia",
+        "eventDate": "2009-05-07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.391206,
+          4.893583
+        ]
+      },
+      "properties": {
+        "key": 699455530,
+        "country": "Colombia",
+        "eventDate": "2009-05-07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.521667,
+          -9.700833
+        ]
+      },
+      "properties": {
+        "key": 1949964988,
+        "country": "Brazil",
+        "eventDate": "2009-09-10",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.521667,
+          -9.700833
+        ]
+      },
+      "properties": {
+        "key": 1949964993,
+        "country": "Brazil",
+        "eventDate": "2009-09-13",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.41397,
+          4.59457
+        ]
+      },
+      "properties": {
+        "key": 3310470797,
+        "country": "French Guiana",
+        "eventDate": "2009",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.219467,
+          -10.754983
+        ]
+      },
+      "properties": {
+        "key": 1147115189,
+        "country": "Peru",
+        "eventDate": "2008-09-17",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.221916,
+          -10.75313
+        ]
+      },
+      "properties": {
+        "key": 1147150304,
+        "country": "Peru",
+        "eventDate": "2008-09-12",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.8764,
+          -16.7581
+        ]
+      },
+      "properties": {
+        "key": 3129087313,
+        "country": "Brazil",
+        "eventDate": "2008-09-07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.01412,
+          5.38784
+        ]
+      },
+      "properties": {
+        "key": 3073578891,
+        "country": "French Guiana",
+        "eventDate": "2008",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5752,
+          -17.1667
+        ]
+      },
+      "properties": {
+        "key": 3769748600,
+        "country": "Brazil",
+        "eventDate": "2007-07-13",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.8764,
+          -16.7581
+        ]
+      },
+      "properties": {
+        "key": 2243573596,
+        "country": "Brazil",
+        "eventDate": "2006-10-07",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.81667,
+          -12.7
+        ]
+      },
+      "properties": {
+        "key": 2432404024,
+        "country": "Peru",
+        "eventDate": "2004-07-10",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0118,
+          -18.2568
+        ]
+      },
+      "properties": {
+        "key": 4953716511,
+        "country": "Brazil",
+        "eventDate": "2004-11-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.259361,
+          5.60625
+        ]
+      },
+      "properties": {
+        "key": 4979149767,
+        "country": "Colombia",
+        "eventDate": "2004-11-01",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4,
+          7.9666
+        ]
+      },
+      "properties": {
+        "key": 1931956909,
+        "country": "Colombia",
+        "eventDate": "2004-04-25/2004-08-25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1,
+          8.35
+        ]
+      },
+      "properties": {
+        "key": 1931965843,
+        "country": "Colombia",
+        "eventDate": "2004-04-25/2004-08-25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8177,
+          8.56735
+        ]
+      },
+      "properties": {
+        "key": 1931974416,
+        "country": "Colombia",
+        "eventDate": "2004-04-25/2004-08-25",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0,
+          17.75
+        ]
+      },
+      "properties": {
+        "key": 2243635266,
+        "country": "Mexico",
+        "eventDate": "2003-04-06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0,
+          17.75
+        ]
+      },
+      "properties": {
+        "key": 2243635799,
+        "country": "Mexico",
+        "eventDate": "2003-04-06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0,
+          17.75
+        ]
+      },
+      "properties": {
+        "key": 2243635926,
+        "country": "Mexico",
+        "eventDate": "2003-04-06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0,
+          17.75
+        ]
+      },
+      "properties": {
+        "key": 2243636484,
+        "country": "Mexico",
+        "eventDate": "2003-04-06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0,
+          17.75
+        ]
+      },
+      "properties": {
+        "key": 2243636608,
+        "country": "Mexico",
+        "eventDate": "2003-04-06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0,
+          17.75
+        ]
+      },
+      "properties": {
+        "key": 2243637145,
+        "country": "Mexico",
+        "eventDate": "2003-04-06",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.350222,
+          3.882611
+        ]
+      },
+      "properties": {
+        "key": 4026667156,
+        "country": "Colombia",
+        "eventDate": "2003-05-22",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.350222,
+          3.882611
+        ]
+      },
+      "properties": {
+        "key": 4026667157,
+        "country": "Colombia",
+        "eventDate": "2003-05-22",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.218,
+          3.52574
+        ]
+      },
+      "properties": {
+        "key": 4979149757,
+        "country": "Colombia",
+        "eventDate": "2003-05-25",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.350222,
+          3.882611
+        ]
+      },
+      "properties": {
+        "key": 4979149761,
+        "country": "Colombia",
+        "eventDate": "2003-05-25",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.96667,
+          7.66667
+        ]
+      },
+      "properties": {
+        "key": 686300961,
+        "country": "Guyana",
+        "eventDate": "2002-03-26",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.96667,
+          7.66667
+        ]
+      },
+      "properties": {
+        "key": 686300962,
+        "country": "Guyana",
+        "eventDate": "2002-03-26",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.97,
+          7.67
+        ]
+      },
+      "properties": {
+        "key": 1322302498,
+        "country": "Guyana",
+        "eventDate": "2002-03-26",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.967,
+          7.667
+        ]
+      },
+      "properties": {
+        "key": 2251579505,
+        "country": "Guyana",
+        "eventDate": "2002-03-26",
+        "basisOfRecord": "MATERIAL_SAMPLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.967,
+          7.667
+        ]
+      },
+      "properties": {
+        "key": 2251579639,
+        "country": "Guyana",
+        "eventDate": "2002-03-26",
+        "basisOfRecord": "MATERIAL_SAMPLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.97,
+          7.67
+        ]
+      },
+      "properties": {
+        "key": 3028126184,
+        "country": "Guyana",
+        "eventDate": "2002-03-26",
+        "basisOfRecord": "MATERIAL_SAMPLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.97,
+          7.67
+        ]
+      },
+      "properties": {
+        "key": 3346970259,
+        "country": "Guyana",
+        "eventDate": "2002-03-26",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.97,
+          7.67
+        ]
+      },
+      "properties": {
+        "key": 3347044320,
+        "country": "Guyana",
+        "eventDate": "2002-03-26",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6189,
+          -19.3481
+        ]
+      },
+      "properties": {
+        "key": 2243732916,
+        "country": "Brazil",
+        "eventDate": "2002-10-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6189,
+          -19.3481
+        ]
+      },
+      "properties": {
+        "key": 2243884173,
+        "country": "Brazil",
+        "eventDate": "2002-10-28",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.93,
+          -14.55
+        ]
+      },
+      "properties": {
+        "key": 2432451991,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "2002-11-03",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5,
+          -16.6666
+        ]
+      },
+      "properties": {
+        "key": 45962455,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1999-08-01",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5,
+          -16.6666
+        ]
+      },
+      "properties": {
+        "key": 3415159987,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1999-08-01",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0142,
+          -9.2856
+        ]
+      },
+      "properties": {
+        "key": 3353669583,
+        "country": "Brazil",
+        "eventDate": "1999-09-20",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0142,
+          -9.2856
+        ]
+      },
+      "properties": {
+        "key": 3353673591,
+        "country": "Brazil",
+        "eventDate": "1999-09-20",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.733,
+          -13.633
+        ]
+      },
+      "properties": {
+        "key": 197028246,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1997-04-15",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7,
+          -12.517
+        ]
+      },
+      "properties": {
+        "key": 197028229,
+        "country": "Peru",
+        "eventDate": "1996-06-02",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96667,
+          3.950556
+        ]
+      },
+      "properties": {
+        "key": 2243582616,
+        "country": "Colombia",
+        "eventDate": "1993-01-16",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.966667,
+          3.950556
+        ]
+      },
+      "properties": {
+        "key": 4979152296,
+        "country": "Colombia",
+        "eventDate": "1993-01-09",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "key": 1147046909,
+        "country": "Venezuela (Bolivarian Republic of)",
+        "eventDate": "1992-01-28",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "key": 1147122108,
+        "country": "Venezuela (Bolivarian Republic of)",
+        "eventDate": "1992-01-28",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "key": 1147187553,
+        "country": "Venezuela (Bolivarian Republic of)",
+        "eventDate": "1992-01-29",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.083,
+          -13.0
+        ]
+      },
+      "properties": {
+        "key": 197029046,
+        "country": "Peru",
+        "eventDate": "1992-05-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.008,
+          -13.535
+        ]
+      },
+      "properties": {
+        "key": 197028199,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1991-01-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.812,
+          -13.655
+        ]
+      },
+      "properties": {
+        "key": 197028220,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1991-01-01",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.92,
+          -14.55
+        ]
+      },
+      "properties": {
+        "key": 45961805,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1989-08-28",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.92,
+          -14.55
+        ]
+      },
+      "properties": {
+        "key": 45961806,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1989-08-28",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.92,
+          -14.55
+        ]
+      },
+      "properties": {
+        "key": 45961807,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1989-08-28",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.92,
+          -14.55
+        ]
+      },
+      "properties": {
+        "key": 45961808,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1989-08-30",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.92,
+          -14.55
+        ]
+      },
+      "properties": {
+        "key": 45961813,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1989-08-29",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.67,
+          -14.57
+        ]
+      },
+      "properties": {
+        "key": 45961809,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1989-10-02",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.67,
+          -14.57
+        ]
+      },
+      "properties": {
+        "key": 45961810,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1989-10-04",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.67,
+          -14.57
+        ]
+      },
+      "properties": {
+        "key": 45961811,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1989-10-06",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.67,
+          -14.57
+        ]
+      },
+      "properties": {
+        "key": 3415161950,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1989-10-06",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5904,
+          4.29121
+        ]
+      },
+      "properties": {
+        "key": 1315022427,
+        "country": "Colombia",
+        "eventDate": "1988-04-30",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0,
+          -13.0
+        ]
+      },
+      "properties": {
+        "key": 1147038906,
+        "country": "Peru",
+        "eventDate": "1988-08-16",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0,
+          -13.0
+        ]
+      },
+      "properties": {
+        "key": 1147110544,
+        "country": "Peru",
+        "eventDate": "1988-08-16",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8,
+          -12.7
+        ]
+      },
+      "properties": {
+        "key": 1147135250,
+        "country": "Peru",
+        "eventDate": "1988-08-13",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0,
+          -13.0
+        ]
+      },
+      "properties": {
+        "key": 1300301120,
+        "country": "Peru",
+        "eventDate": "1988-08-16",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.733333,
+          -6.05
+        ]
+      },
+      "properties": {
+        "key": 1147141936,
+        "country": "Peru",
+        "eventDate": "1986-07-29",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.85,
+          -14.82
+        ]
+      },
+      "properties": {
+        "key": 45962478,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1984-10-04",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.88,
+          -12.95
+        ]
+      },
+      "properties": {
+        "key": 45962271,
+        "country": "Peru",
+        "eventDate": "1977-06-27",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1522,
+          -6.052711
+        ]
+      },
+      "properties": {
+        "key": 45962272,
+        "country": "Peru",
+        "eventDate": "1977-09-16",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15,
+          -6.08
+        ]
+      },
+      "properties": {
+        "key": 1147081524,
+        "country": "Peru",
+        "eventDate": "1977-09-16",
+        "basisOfRecord": "MACHINE_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.333333,
+          4.583333
+        ]
+      },
+      "properties": {
+        "key": 667983034,
+        "country": "Colombia",
+        "eventDate": "1976-03-17",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.333333,
+          4.583333
+        ]
+      },
+      "properties": {
+        "key": 667983606,
+        "country": "Colombia",
+        "eventDate": "1976-04-20",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.333333,
+          4.583333
+        ]
+      },
+      "properties": {
+        "key": 667983602,
+        "country": "Colombia",
+        "eventDate": "1976-05-17",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.333333,
+          4.583333
+        ]
+      },
+      "properties": {
+        "key": 667983603,
+        "country": "Colombia",
+        "eventDate": "1976-05-08",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.333333,
+          4.583333
+        ]
+      },
+      "properties": {
+        "key": 667983604,
+        "country": "Colombia",
+        "eventDate": "1976-05-08",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.333333,
+          4.583333
+        ]
+      },
+      "properties": {
+        "key": 667983605,
+        "country": "Colombia",
+        "eventDate": "1976-05-08",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.333333,
+          4.583333
+        ]
+      },
+      "properties": {
+        "key": 667983762,
+        "country": "Colombia",
+        "eventDate": "1976-07-24",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.072222,
+          -19.391111
+        ]
+      },
+      "properties": {
+        "key": 1324002818,
+        "country": "Brazil",
+        "eventDate": "1972-09-23",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.083328,
+          4.6
+        ]
+      },
+      "properties": {
+        "key": 4031149553,
+        "country": "Colombia",
+        "eventDate": "1969-03-18",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.133333,
+          14.45
+        ]
+      },
+      "properties": {
+        "key": 1060836062,
+        "country": "Nicaragua",
+        "eventDate": "1967-04-23",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.133333,
+          14.45
+        ]
+      },
+      "properties": {
+        "key": 1060836065,
+        "country": "Nicaragua",
+        "eventDate": "1967-04-22",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.133333,
+          14.45
+        ]
+      },
+      "properties": {
+        "key": 1060836095,
+        "country": "Nicaragua",
+        "eventDate": "1967-04-23",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.066667,
+          14.45
+        ]
+      },
+      "properties": {
+        "key": 1060836110,
+        "country": "Nicaragua",
+        "eventDate": "1967-04-22",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.233333,
+          14.466667
+        ]
+      },
+      "properties": {
+        "key": 1060836096,
+        "country": "Nicaragua",
+        "eventDate": "1966-03-25",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.233333,
+          14.466667
+        ]
+      },
+      "properties": {
+        "key": 1060836098,
+        "country": "Nicaragua",
+        "eventDate": "1966-03-26",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.233333,
+          14.466667
+        ]
+      },
+      "properties": {
+        "key": 1060836099,
+        "country": "Nicaragua",
+        "eventDate": "1966-03-22",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.233333,
+          14.466667
+        ]
+      },
+      "properties": {
+        "key": 1060836108,
+        "country": "Nicaragua",
+        "eventDate": "1966-03-25",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.233333,
+          14.466667
+        ]
+      },
+      "properties": {
+        "key": 1060836125,
+        "country": "Nicaragua",
+        "eventDate": "1966-03-26",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.233333,
+          14.466667
+        ]
+      },
+      "properties": {
+        "key": 1060836128,
+        "country": "Nicaragua",
+        "eventDate": "1966-03-25",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7,
+          8.65
+        ]
+      },
+      "properties": {
+        "key": 657129727,
+        "country": "Colombia",
+        "eventDate": "1966-07-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.05,
+          5.883333
+        ]
+      },
+      "properties": {
+        "key": 1987537560,
+        "country": "Suriname",
+        "eventDate": "1965-10-31",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.05,
+          17.067
+        ]
+      },
+      "properties": {
+        "key": 143827670,
+        "country": "Mexico",
+        "eventDate": "1962-06-26",
+        "basisOfRecord": "OCCURRENCE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.051111,
+          17.226389
+        ]
+      },
+      "properties": {
+        "key": 212154342,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.06689,
+          17.2341
+        ]
+      },
+      "properties": {
+        "key": 620569067,
+        "country": "Mexico",
+        "eventDate": "1962-06-11",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.06689,
+          17.2341
+        ]
+      },
+      "properties": {
+        "key": 620569102,
+        "country": "Mexico",
+        "eventDate": "1962-06-11",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.06689,
+          17.2341
+        ]
+      },
+      "properties": {
+        "key": 620569103,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.06689,
+          17.2341
+        ]
+      },
+      "properties": {
+        "key": 620569104,
+        "country": "Mexico",
+        "eventDate": "1962-06-11",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.06689,
+          17.2341
+        ]
+      },
+      "properties": {
+        "key": 620569105,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.04689,
+          17.24577
+        ]
+      },
+      "properties": {
+        "key": 620822625,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.04689,
+          17.24577
+        ]
+      },
+      "properties": {
+        "key": 620855753,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0333,
+          17.3833
+        ]
+      },
+      "properties": {
+        "key": 1039619681,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.053127,
+          17.227374
+        ]
+      },
+      "properties": {
+        "key": 1039663140,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.066667,
+          17.233333
+        ]
+      },
+      "properties": {
+        "key": 2630458370,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.066667,
+          17.233333
+        ]
+      },
+      "properties": {
+        "key": 2630504882,
+        "country": "Mexico",
+        "eventDate": "1962-06-11",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.066667,
+          17.233333
+        ]
+      },
+      "properties": {
+        "key": 2630508896,
+        "country": "Mexico",
+        "eventDate": "1962-06-11",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.046667,
+          17.245
+        ]
+      },
+      "properties": {
+        "key": 2630518085,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.046667,
+          17.245
+        ]
+      },
+      "properties": {
+        "key": 2630530785,
+        "country": "Mexico",
+        "eventDate": "1962-06-11",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.046667,
+          17.245
+        ]
+      },
+      "properties": {
+        "key": 2630533640,
+        "country": "Mexico",
+        "eventDate": "1962-06-11",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.066667,
+          17.233333
+        ]
+      },
+      "properties": {
+        "key": 2630558154,
+        "country": "Mexico",
+        "eventDate": "1962-06-20",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.066667,
+          17.233333
+        ]
+      },
+      "properties": {
+        "key": 2630630914,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.066667,
+          17.233333
+        ]
+      },
+      "properties": {
+        "key": 2630632902,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.066667,
+          17.233333
+        ]
+      },
+      "properties": {
+        "key": 2630636960,
+        "country": "Mexico",
+        "eventDate": "1962-06-11",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.046667,
+          17.245
+        ]
+      },
+      "properties": {
+        "key": 2630649210,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.046667,
+          17.245
+        ]
+      },
+      "properties": {
+        "key": 2630650485,
+        "country": "Mexico",
+        "eventDate": "1962-06-20",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.046667,
+          17.245
+        ]
+      },
+      "properties": {
+        "key": 2630657558,
+        "country": "Mexico",
+        "eventDate": "1962-06-25",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.066667,
+          17.233333
+        ]
+      },
+      "properties": {
+        "key": 2630657637,
+        "country": "Mexico",
+        "eventDate": "1962-06-11",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.066667,
+          17.233333
+        ]
+      },
+      "properties": {
+        "key": 2630658665,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.033333,
+          16.883333
+        ]
+      },
+      "properties": {
+        "key": 2630664552,
+        "country": "Mexico",
+        "eventDate": "1962-06-11",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.033333,
+          17.266667
+        ]
+      },
+      "properties": {
+        "key": 2630683761,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.066667,
+          17.233333
+        ]
+      },
+      "properties": {
+        "key": 2630688257,
+        "country": "Mexico",
+        "eventDate": "1962-06-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.05,
+          17.06667
+        ]
+      },
+      "properties": {
+        "key": 4169092133,
+        "country": "Mexico",
+        "eventDate": "1962-06-26",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.033611,
+          17.0675
+        ]
+      },
+      "properties": {
+        "key": 620569106,
+        "country": "Mexico",
+        "eventDate": "1962-07-19",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.046667,
+          17.245
+        ]
+      },
+      "properties": {
+        "key": 2630526611,
+        "country": "Mexico",
+        "eventDate": "1962-07-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.05,
+          17.066667
+        ]
+      },
+      "properties": {
+        "key": 2630635921,
+        "country": "Mexico",
+        "eventDate": "1962-07-19",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.633331,
+          2.56667
+        ]
+      },
+      "properties": {
+        "key": 4031147261,
+        "country": "Colombia",
+        "eventDate": "1961-01-01",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.03355,
+          17.325766
+        ]
+      },
+      "properties": {
+        "key": 620817582,
+        "country": "Mexico",
+        "eventDate": "1960-05-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.03355,
+          17.325766
+        ]
+      },
+      "properties": {
+        "key": 620820235,
+        "country": "Mexico",
+        "eventDate": "1960-05-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.03355,
+          17.325766
+        ]
+      },
+      "properties": {
+        "key": 620821618,
+        "country": "Mexico",
+        "eventDate": "1960-05-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.03355,
+          17.325766
+        ]
+      },
+      "properties": {
+        "key": 620821622,
+        "country": "Mexico",
+        "eventDate": "1960-05-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.033333,
+          17.325
+        ]
+      },
+      "properties": {
+        "key": 2630504253,
+        "country": "Mexico",
+        "eventDate": "1960-05-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.033333,
+          17.325
+        ]
+      },
+      "properties": {
+        "key": 2630504311,
+        "country": "Mexico",
+        "eventDate": "1960-05-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.033333,
+          17.325
+        ]
+      },
+      "properties": {
+        "key": 2630508320,
+        "country": "Mexico",
+        "eventDate": "1960-05-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.033333,
+          17.325
+        ]
+      },
+      "properties": {
+        "key": 2630638335,
+        "country": "Mexico",
+        "eventDate": "1960-05-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.033333,
+          17.156667
+        ]
+      },
+      "properties": {
+        "key": 4168665505,
+        "country": "Mexico",
+        "eventDate": "1960-05-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.033333,
+          17.156667
+        ]
+      },
+      "properties": {
+        "key": 4168686344,
+        "country": "Mexico",
+        "eventDate": "1960-05-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.033333,
+          17.156667
+        ]
+      },
+      "properties": {
+        "key": 4168687316,
+        "country": "Mexico",
+        "eventDate": "1960-05-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2423,
+          3.7101
+        ]
+      },
+      "properties": {
+        "key": 1315022449,
+        "country": "Colombia",
+        "eventDate": "1960-11-23",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.17,
+          -0.7
+        ]
+      },
+      "properties": {
+        "key": 657100577,
+        "country": "Brazil",
+        "eventDate": "1960-12-02",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0667,
+          7.83333
+        ]
+      },
+      "properties": {
+        "key": 1315022417,
+        "country": "Colombia",
+        "eventDate": "1959-02-19",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0667,
+          7.83333
+        ]
+      },
+      "properties": {
+        "key": 1315022424,
+        "country": "Colombia",
+        "eventDate": "1959-03-23",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.883333,
+          3.283333
+        ]
+      },
+      "properties": {
+        "key": 668415524,
+        "country": "Colombia",
+        "eventDate": "1957-02-19",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.006869,
+          18.0474
+        ]
+      },
+      "properties": {
+        "key": 1987478489,
+        "country": "Mexico",
+        "eventDate": "1956-05-20",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.006869,
+          18.0474
+        ]
+      },
+      "properties": {
+        "key": 1987478603,
+        "country": "Mexico",
+        "eventDate": "1956-05-20",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.373889,
+          16.861667
+        ]
+      },
+      "properties": {
+        "key": 2630383385,
+        "country": "Mexico",
+        "eventDate": "1949-04-24",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.366667,
+          16.75
+        ]
+      },
+      "properties": {
+        "key": 2630695000,
+        "country": "Mexico",
+        "eventDate": "1949-04-24",
+        "basisOfRecord": "MATERIAL_CITATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.371093,
+          16.751375
+        ]
+      },
+      "properties": {
+        "key": 4527179505,
+        "country": "Mexico",
+        "eventDate": "1949-04-24",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.733333,
+          17.183333
+        ]
+      },
+      "properties": {
+        "key": 2630525943,
+        "country": "Mexico",
+        "eventDate": "1941-02-18",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.733333,
+          17.183333
+        ]
+      },
+      "properties": {
+        "key": 2630526908,
+        "country": "Mexico",
+        "eventDate": "1941-02-07",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.733333,
+          17.183333
+        ]
+      },
+      "properties": {
+        "key": 2630531091,
+        "country": "Mexico",
+        "eventDate": "1941-02-18",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.733333,
+          17.183333
+        ]
+      },
+      "properties": {
+        "key": 2630533968,
+        "country": "Mexico",
+        "eventDate": "1941-02-26",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.733333,
+          17.183333
+        ]
+      },
+      "properties": {
+        "key": 2630656897,
+        "country": "Mexico",
+        "eventDate": "1941-02-26",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.733333,
+          17.183333
+        ]
+      },
+      "properties": {
+        "key": 2630664797,
+        "country": "Mexico",
+        "eventDate": "1941-02-05",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.733333,
+          17.183333
+        ]
+      },
+      "properties": {
+        "key": 2630665840,
+        "country": "Mexico",
+        "eventDate": "1941-02-01",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.733333,
+          17.183333
+        ]
+      },
+      "properties": {
+        "key": 2630531092,
+        "country": "Mexico",
+        "eventDate": "1941-03-02",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.733333,
+          17.183333
+        ]
+      },
+      "properties": {
+        "key": 2630657888,
+        "country": "Mexico",
+        "eventDate": "1941-03-17",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.733333,
+          17.183333
+        ]
+      },
+      "properties": {
+        "key": 2630650824,
+        "country": "Mexico",
+        "eventDate": "1941-04-22",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.449116,
+          17.187428
+        ]
+      },
+      "properties": {
+        "key": 896260520,
+        "country": "Mexico",
+        "eventDate": "1939-06-09",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.172708,
+          -16.813131
+        ]
+      },
+      "properties": {
+        "key": 4527369632,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1937-08-10",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1,
+          10.12
+        ]
+      },
+      "properties": {
+        "key": 1318239229,
+        "country": "Venezuela (Bolivarian Republic of)",
+        "eventDate": "1937",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.466667,
+          -14.366667
+        ]
+      },
+      "properties": {
+        "key": 4527295038,
+        "country": "Bolivia (Plurinational State of)",
+        "eventDate": "1934-09-20",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.7,
+          -2.43333
+        ]
+      },
+      "properties": {
+        "key": 863399526,
+        "country": "Brazil",
+        "eventDate": "1919-09-24",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.7,
+          -2.43333
+        ]
+      },
+      "properties": {
+        "key": 863399540,
+        "country": "Brazil",
+        "eventDate": "1919-09-26",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5,
+          -1.0
+        ]
+      },
+      "properties": {
+        "key": 863399539,
+        "country": "Brazil",
+        "eventDate": "1873-08-03",
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98333,
+          0.05
+        ]
+      },
+      "properties": {
+        "key": 686222833,
+        "country": "Ecuador",
+        "eventDate": null,
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.28,
+          -12.23
+        ]
+      },
+      "properties": {
+        "key": 1269821922,
+        "country": "Brazil",
+        "eventDate": null,
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.82,
+          -22.92
+        ]
+      },
+      "properties": {
+        "key": 1269826574,
+        "country": "Brazil",
+        "eventDate": null,
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.28,
+          -12.23
+        ]
+      },
+      "properties": {
+        "key": 1269830955,
+        "country": "Brazil",
+        "eventDate": null,
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.28,
+          -12.23
+        ]
+      },
+      "properties": {
+        "key": 1269830969,
+        "country": "Brazil",
+        "eventDate": null,
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.82,
+          -22.92
+        ]
+      },
+      "properties": {
+        "key": 1269834959,
+        "country": "Brazil",
+        "eventDate": null,
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.82,
+          -22.92
+        ]
+      },
+      "properties": {
+        "key": 1269834963,
+        "country": "Brazil",
+        "eventDate": null,
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.82,
+          -22.92
+        ]
+      },
+      "properties": {
+        "key": 1269834972,
+        "country": "Brazil",
+        "eventDate": null,
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.468,
+          5.554
+        ]
+      },
+      "properties": {
+        "key": 1936714011,
+        "country": "Colombia",
+        "eventDate": null,
+        "basisOfRecord": "MATERIAL_SAMPLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.468,
+          5.554
+        ]
+      },
+      "properties": {
+        "key": 1936714017,
+        "country": "Colombia",
+        "eventDate": null,
+        "basisOfRecord": "MATERIAL_SAMPLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046,
+          -6.03
+        ]
+      },
+      "properties": {
+        "key": 2243668909,
+        "country": "Peru",
+        "eventDate": null,
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046,
+          -6.03
+        ]
+      },
+      "properties": {
+        "key": 2243669610,
+        "country": "Peru",
+        "eventDate": null,
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.411111,
+          16.854167
+        ]
+      },
+      "properties": {
+        "key": 2630353067,
+        "country": "Mexico",
+        "eventDate": null,
+        "basisOfRecord": "MATERIAL_CITATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.980556,
+          17.509167
+        ]
+      },
+      "properties": {
+        "key": 2630366373,
+        "country": "Mexico",
+        "eventDate": null,
+        "basisOfRecord": "MATERIAL_CITATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.373889,
+          16.861667
+        ]
+      },
+      "properties": {
+        "key": 2630404442,
+        "country": "Mexico",
+        "eventDate": null,
+        "basisOfRecord": "MATERIAL_CITATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.45819,
+          4.9874
+        ]
+      },
+      "properties": {
+        "key": 3073481427,
+        "country": "French Guiana",
+        "eventDate": "2005/2009",
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.23477,
+          3.92404
+        ]
+      },
+      "properties": {
+        "key": 3846959082,
+        "country": "French Guiana",
+        "eventDate": null,
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.23477,
+          3.92404
+        ]
+      },
+      "properties": {
+        "key": 3935040110,
+        "country": "French Guiana",
+        "eventDate": null,
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.510926,
+          3.450463
+        ]
+      },
+      "properties": {
+        "key": 4079904586,
+        "country": "Colombia",
+        "eventDate": null,
+        "basisOfRecord": "PRESERVED_SPECIMEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.24036,
+          3.91451
+        ]
+      },
+      "properties": {
+        "key": 4548630408,
+        "country": "French Guiana",
+        "eventDate": null,
+        "basisOfRecord": "HUMAN_OBSERVATION"
+      }
+    }
+  ],
+  "bbox": [
+    -95.733333,
+    -23.2119,
+    -40.072222,
+    18.0474
+  ]
+}

@@ -1,0 +1,4329 @@
+{
+  "version": "2025-10-20",
+  "language_priority": [
+    "es",
+    "en"
+  ],
+  "species": [
+    {
+      "species_id": "morphnarchus_princeps",
+      "scientific_name": "Morphnarchus princeps",
+      "common_name_en": "Barred Hawk",
+      "common_name_es": "Gavilán barreteado",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/morphnarchus_princeps/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/morphnarchus_princeps/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/morphnarchus_princeps/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/morphnarchus_princeps/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "accipiter_bicolor",
+      "scientific_name": "Accipiter bicolor",
+      "common_name_en": "Bicolored Hawk",
+      "common_name_es": "Gavilán bicolor",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/accipiter_bicolor/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/accipiter_bicolor/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/accipiter_bicolor/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/accipiter_bicolor/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "spizaetus_isidori",
+      "scientific_name": "Spizaetus isidori",
+      "common_name_en": "Black-and-chestnut Eagle",
+      "common_name_es": "Águila andina parda y negra",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/spizaetus_isidori/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/spizaetus_isidori/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/spizaetus_isidori/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/spizaetus_isidori/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "spizaetus_melanoleucus",
+      "scientific_name": "Spizaetus melanoleucus",
+      "common_name_en": "Black-and-white Hawk-Eagle",
+      "common_name_es": "Águila halcón blanco y negro",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/spizaetus_melanoleucus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/spizaetus_melanoleucus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/spizaetus_melanoleucus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/spizaetus_melanoleucus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "geranoaetus_melanoleucus",
+      "scientific_name": "Geranoaetus melanoleucus",
+      "common_name_en": "Black-chested Buzzard-Eagle",
+      "common_name_es": "Águila pechinegra",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/geranoaetus_melanoleucus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/geranoaetus_melanoleucus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/geranoaetus_melanoleucus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/geranoaetus_melanoleucus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "buteogallus_anthracinus",
+      "scientific_name": "Buteogallus anthracinus",
+      "common_name_en": "Common Black Hawk",
+      "common_name_es": "Gavilán negro común",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/buteogallus_anthracinus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/buteogallus_anthracinus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/buteogallus_anthracinus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/buteogallus_anthracinus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "geranospiza_caerulescens",
+      "scientific_name": "Geranospiza caerulescens",
+      "common_name_en": "Crane Hawk",
+      "common_name_es": "Gavilán cangrejero",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/geranospiza_caerulescens/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/geranospiza_caerulescens/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/geranospiza_caerulescens/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/geranospiza_caerulescens/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "morphnus_guianensis",
+      "scientific_name": "Morphnus guianensis",
+      "common_name_en": "Crested Eagle",
+      "common_name_es": "Águila crestada",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/morphnus_guianensis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/morphnus_guianensis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/morphnus_guianensis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/morphnus_guianensis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "buteo_nitidus",
+      "scientific_name": "Buteo nitidus",
+      "common_name_en": "Gray-lined Hawk",
+      "common_name_es": "Gavilán gris lineado",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/buteo_nitidus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/buteo_nitidus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/buteo_nitidus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/buteo_nitidus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "buteogallus_urubitinga",
+      "scientific_name": "Buteogallus urubitinga",
+      "common_name_en": "Great Black Hawk",
+      "common_name_es": "Gavilán negro grande",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/buteogallus_urubitinga/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/buteogallus_urubitinga/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/buteogallus_urubitinga/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/buteogallus_urubitinga/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "rupornis_magnirostris",
+      "scientific_name": "Rupornis magnirostris",
+      "common_name_en": "Roadside Hawk",
+      "common_name_es": "Gavilán caminero",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/rupornis_magnirostris/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/rupornis_magnirostris/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/rupornis_magnirostris/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/rupornis_magnirostris/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "leucopternis_semiplumbeus",
+      "scientific_name": "Leucopternis semiplumbeus",
+      "common_name_en": "Semiplumbeous Hawk",
+      "common_name_es": "Gavilán semiplomizo",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/leucopternis_semiplumbeus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/leucopternis_semiplumbeus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/leucopternis_semiplumbeus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/leucopternis_semiplumbeus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "buteogallus_schistaceus",
+      "scientific_name": "Buteogallus schistaceus",
+      "common_name_en": "Slate-colored Hawk",
+      "common_name_es": "Gavilán plomizo",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/buteogallus_schistaceus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/buteogallus_schistaceus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/buteogallus_schistaceus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/buteogallus_schistaceus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "microspizias_superciliosus",
+      "scientific_name": "Microspizias superciliosus",
+      "common_name_en": "Tiny Hawk",
+      "common_name_es": "Gavilán enano",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/microspizias_superciliosus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/microspizias_superciliosus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/microspizias_superciliosus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/microspizias_superciliosus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "pseudastur_albicollis",
+      "scientific_name": "Pseudastur albicollis",
+      "common_name_en": "White Hawk",
+      "common_name_es": "Gavilán blanco",
+      "family": "Accipitridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/pseudastur_albicollis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/pseudastur_albicollis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/pseudastur_albicollis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/pseudastur_albicollis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "cairina_moschata",
+      "scientific_name": "Cairina moschata",
+      "common_name_en": "Muscovy Duck",
+      "common_name_es": "Pato criollo (Muscovy)",
+      "family": "Anatidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/cairina_moschata/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/cairina_moschata/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/cairina_moschata/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/cairina_moschata/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "streptoprocne_biscutata",
+      "scientific_name": "Streptoprocne biscutata",
+      "common_name_en": "Biscutate Swift",
+      "common_name_es": "Vencejo biscútate",
+      "family": "Apodidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/streptoprocne_biscutata/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/streptoprocne_biscutata/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/streptoprocne_biscutata/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/streptoprocne_biscutata/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "streptoprocne_zonaris",
+      "scientific_name": "Streptoprocne zonaris",
+      "common_name_en": "White-collared Swift",
+      "common_name_es": "Vencejo collar blanco",
+      "family": "Apodidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/streptoprocne_zonaris/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/streptoprocne_zonaris/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/streptoprocne_zonaris/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/streptoprocne_zonaris/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "tigrisoma_fasciatum",
+      "scientific_name": "Tigrisoma fasciatum",
+      "common_name_en": "Fasciated Tiger-Heron",
+      "common_name_es": "Garza tigre fasciada",
+      "family": "Ardeidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/tigrisoma_fasciatum/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/tigrisoma_fasciatum/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/tigrisoma_fasciatum/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/tigrisoma_fasciatum/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "ardea_herodias",
+      "scientific_name": "Ardea herodias",
+      "common_name_en": "Great Blue Heron",
+      "common_name_es": "Garzón azul",
+      "family": "Ardeidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/ardea_herodias/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/ardea_herodias/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/ardea_herodias/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/ardea_herodias/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "ardea_alba",
+      "scientific_name": "Ardea alba",
+      "common_name_en": "Great Egret",
+      "common_name_es": "Garza grande",
+      "family": "Ardeidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/ardea_alba/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/ardea_alba/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/ardea_alba/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/ardea_alba/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "egretta_caerulea",
+      "scientific_name": "Egretta caerulea",
+      "common_name_en": "Little Blue Heron",
+      "common_name_es": "Garcita azul",
+      "family": "Ardeidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/egretta_caerulea/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/egretta_caerulea/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/egretta_caerulea/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/egretta_caerulea/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "tigrisoma_lineatum",
+      "scientific_name": "Tigrisoma lineatum",
+      "common_name_en": "Rufescent Tiger-Heron",
+      "common_name_es": "Garza tigre colorada",
+      "family": "Ardeidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/tigrisoma_lineatum/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/tigrisoma_lineatum/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/tigrisoma_lineatum/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/tigrisoma_lineatum/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "bubulcus_ibis",
+      "scientific_name": "Bubulcus ibis",
+      "common_name_en": "Western Cattle-Egret",
+      "common_name_es": "Garcita bueyera",
+      "family": "Ardeidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/bubulcus_ibis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/bubulcus_ibis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/bubulcus_ibis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/bubulcus_ibis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "ixobrychus_sinensis",
+      "scientific_name": "Ixobrychus sinensis",
+      "common_name_en": "Yellow Bittern",
+      "common_name_es": "Avetorillo amarillo (accidental)",
+      "family": "Ardeidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/ixobrychus_sinensis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/ixobrychus_sinensis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/ixobrychus_sinensis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/ixobrychus_sinensis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "malacoptila_panamensis",
+      "scientific_name": "Malacoptila panamensis",
+      "common_name_en": "White-whiskered Puffbird",
+      "common_name_es": "Bucón bigotiblanco",
+      "family": "Bucconidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/malacoptila_panamensis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/malacoptila_panamensis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/malacoptila_panamensis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/malacoptila_panamensis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "uropsalis_lyra",
+      "scientific_name": "Uropsalis lyra",
+      "common_name_en": "Lyre-tailed Nightjar",
+      "common_name_es": "Chotacabras colilirio",
+      "family": "Caprimulgidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/uropsalis_lyra/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/uropsalis_lyra/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/uropsalis_lyra/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/uropsalis_lyra/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "antrostomus_rufus",
+      "scientific_name": "Antrostomus rufus",
+      "common_name_en": "Rufous Nightjar",
+      "common_name_es": "Chotacabras rufo",
+      "family": "Caprimulgidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/antrostomus_rufus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/antrostomus_rufus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/antrostomus_rufus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/antrostomus_rufus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "setopagis_parvula",
+      "scientific_name": "Setopagis parvula",
+      "common_name_en": "Small-tailed Nightjar",
+      "common_name_es": "Chotacabras chico",
+      "family": "Caprimulgidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/setopagis_parvula/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/setopagis_parvula/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/setopagis_parvula/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/setopagis_parvula/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "hydropsalis_maculicaudus",
+      "scientific_name": "Hydropsalis maculicaudus",
+      "common_name_en": "Spot-tailed Nightjar",
+      "common_name_es": "Chotacabras colimoteado",
+      "family": "Caprimulgidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/hydropsalis_maculicaudus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/hydropsalis_maculicaudus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/hydropsalis_maculicaudus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/hydropsalis_maculicaudus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "coragyps_atratus",
+      "scientific_name": "Coragyps atratus",
+      "common_name_en": "Black Vulture",
+      "common_name_es": "Guala cabeza negra",
+      "family": "Cathartidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/coragyps_atratus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/coragyps_atratus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/coragyps_atratus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/coragyps_atratus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "cathartes_aura",
+      "scientific_name": "Cathartes aura",
+      "common_name_en": "Turkey Vulture",
+      "common_name_es": "Guala cabeza roja",
+      "family": "Cathartidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/cathartes_aura/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/cathartes_aura/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/cathartes_aura/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/cathartes_aura/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "claravis_pretiosa",
+      "scientific_name": "Claravis pretiosa",
+      "common_name_en": "Blue Ground Dove",
+      "common_name_es": "Torcaza azulita",
+      "family": "Columbidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/claravis_pretiosa/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/claravis_pretiosa/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/claravis_pretiosa/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/claravis_pretiosa/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "patagioenas_goodsoni",
+      "scientific_name": "Patagioenas goodsoni",
+      "common_name_en": "Dusky Pigeon",
+      "common_name_es": "Paloma sombria",
+      "family": "Columbidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/patagioenas_goodsoni/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/patagioenas_goodsoni/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/patagioenas_goodsoni/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/patagioenas_goodsoni/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "leptotila_rufaxilla",
+      "scientific_name": "Leptotila rufaxilla",
+      "common_name_en": "Gray-fronted Dove",
+      "common_name_es": "Paloma frentigrís",
+      "family": "Columbidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/leptotila_rufaxilla/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/leptotila_rufaxilla/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/leptotila_rufaxilla/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/leptotila_rufaxilla/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "paraclaravis_mondetoura",
+      "scientific_name": "Paraclaravis mondetoura",
+      "common_name_en": "Maroon-chested Ground Dove",
+      "common_name_es": "Torcaza pechicastaña",
+      "family": "Columbidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/paraclaravis_mondetoura/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/paraclaravis_mondetoura/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/paraclaravis_mondetoura/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/paraclaravis_mondetoura/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "patagioenas_cayennensis",
+      "scientific_name": "Patagioenas cayennensis",
+      "common_name_en": "Pale-vented Pigeon",
+      "common_name_es": "Paloma vientepálido",
+      "family": "Columbidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/patagioenas_cayennensis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/patagioenas_cayennensis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/patagioenas_cayennensis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/patagioenas_cayennensis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "leptotila_pallida",
+      "scientific_name": "Leptotila pallida",
+      "common_name_en": "Pallid Dove",
+      "common_name_es": "Paloma pálida",
+      "family": "Columbidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/leptotila_pallida/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/leptotila_pallida/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/leptotila_pallida/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/leptotila_pallida/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "patagioenas_plumbea",
+      "scientific_name": "Patagioenas plumbea",
+      "common_name_en": "Plumbeous Pigeon",
+      "common_name_es": "Paloma plomiza",
+      "family": "Columbidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/patagioenas_plumbea/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/patagioenas_plumbea/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/patagioenas_plumbea/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/patagioenas_plumbea/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "patagioenas_subvinacea",
+      "scientific_name": "Patagioenas subvinacea",
+      "common_name_en": "Ruddy Pigeon",
+      "common_name_es": "Paloma rojiza",
+      "family": "Columbidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/patagioenas_subvinacea/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/patagioenas_subvinacea/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/patagioenas_subvinacea/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/patagioenas_subvinacea/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "turtur_tympanistria",
+      "scientific_name": "Turtur tympanistria",
+      "common_name_en": "Tambourine Dove",
+      "common_name_es": "Paloma tamborilera",
+      "family": "Columbidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/turtur_tympanistria/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/turtur_tympanistria/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/turtur_tympanistria/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/turtur_tympanistria/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "leptotila_verreauxi",
+      "scientific_name": "Leptotila verreauxi",
+      "common_name_en": "White-tipped Dove",
+      "common_name_es": "Tórtola/Paloma collareja",
+      "family": "Columbidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/leptotila_verreauxi/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/leptotila_verreauxi/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/leptotila_verreauxi/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/leptotila_verreauxi/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "cephalopterus_penduliger",
+      "scientific_name": "Cephalopterus penduliger",
+      "common_name_en": "Long-wattled Umbrellabird",
+      "common_name_es": "Pájaro paraguas de gorguera",
+      "family": "Cotingidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/cephalopterus_penduliger/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/cephalopterus_penduliger/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/cephalopterus_penduliger/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/cephalopterus_penduliger/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "querula_purpurata",
+      "scientific_name": "Querula purpurata",
+      "common_name_en": "Purple-throated Fruitcrow",
+      "common_name_es": "Cuervo‑frutero gorgimorado",
+      "family": "Cotingidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/querula_purpurata/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/querula_purpurata/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/querula_purpurata/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/querula_purpurata/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "penelope_ortoni",
+      "scientific_name": "Penelope ortoni",
+      "common_name_en": "Baudo Guan",
+      "common_name_es": "Guan de Baudó",
+      "family": "Cracidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/penelope_ortoni/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/penelope_ortoni/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/penelope_ortoni/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/penelope_ortoni/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "penelope_purpurascens",
+      "scientific_name": "Penelope purpurascens",
+      "common_name_en": "Crested Guan",
+      "common_name_es": "Guan crestado",
+      "family": "Cracidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/penelope_purpurascens/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/penelope_purpurascens/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/penelope_purpurascens/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/penelope_purpurascens/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "crax_rubra",
+      "scientific_name": "Crax rubra",
+      "common_name_en": "Great Curassow",
+      "common_name_es": "Paujil grande",
+      "family": "Cracidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/crax_rubra/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/crax_rubra/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/crax_rubra/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/crax_rubra/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "ortalis_erythroptera",
+      "scientific_name": "Ortalis erythroptera",
+      "common_name_en": "Rufous-headed Chachalaca",
+      "common_name_es": "Chachalaca cabecirrufa",
+      "family": "Cracidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/ortalis_erythroptera/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/ortalis_erythroptera/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/ortalis_erythroptera/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/ortalis_erythroptera/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "aburria_aburri",
+      "scientific_name": "Aburria aburri",
+      "common_name_en": "Wattled Guan",
+      "common_name_es": "Guan barbudo",
+      "family": "Cracidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/aburria_aburri/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/aburria_aburri/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/aburria_aburri/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/aburria_aburri/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "crotophaga_major",
+      "scientific_name": "Crotophaga major",
+      "common_name_en": "Greater Ani",
+      "common_name_es": "Garrapatero mayor",
+      "family": "Cuculidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/crotophaga_major/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/crotophaga_major/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/crotophaga_major/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/crotophaga_major/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "crotophaga_sulcirostris",
+      "scientific_name": "Crotophaga sulcirostris",
+      "common_name_en": "Groove-billed Ani",
+      "common_name_es": "Garrapatero piquiestriado",
+      "family": "Cuculidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/crotophaga_sulcirostris/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/crotophaga_sulcirostris/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/crotophaga_sulcirostris/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/crotophaga_sulcirostris/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "coccycua_minuta",
+      "scientific_name": "Coccycua minuta",
+      "common_name_en": "Little Cuckoo",
+      "common_name_es": "Cuclillo chico",
+      "family": "Cuculidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/coccycua_minuta/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/coccycua_minuta/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/coccycua_minuta/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/coccycua_minuta/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "crotophaga_ani",
+      "scientific_name": "Crotophaga ani",
+      "common_name_en": "Smooth-billed Ani",
+      "common_name_es": "Garrapatero piquiliso",
+      "family": "Cuculidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/crotophaga_ani/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/crotophaga_ani/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/crotophaga_ani/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/crotophaga_ani/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "piaya_cayana",
+      "scientific_name": "Piaya cayana",
+      "common_name_en": "Squirrel Cuckoo",
+      "common_name_es": "Cuclillo ardilla",
+      "family": "Cuculidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/piaya_cayana/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/piaya_cayana/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/piaya_cayana/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/piaya_cayana/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "micrastur_ruficollis",
+      "scientific_name": "Micrastur ruficollis",
+      "common_name_en": "Barred Forest-Falcon",
+      "common_name_es": "Halcón montés barreteado",
+      "family": "Falconidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/micrastur_ruficollis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/micrastur_ruficollis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/micrastur_ruficollis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/micrastur_ruficollis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "falco_columbarius",
+      "scientific_name": "Falco columbarius",
+      "common_name_en": "Merlin",
+      "common_name_es": "Esmerejón",
+      "family": "Falconidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/falco_columbarius/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/falco_columbarius/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/falco_columbarius/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/falco_columbarius/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "pygochelidon_cyanoleuca",
+      "scientific_name": "Pygochelidon cyanoleuca",
+      "common_name_en": "Blue-and-white Swallow",
+      "common_name_es": "Golondrina azuliblanca",
+      "family": "Hirundinidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/pygochelidon_cyanoleuca/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/pygochelidon_cyanoleuca/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/pygochelidon_cyanoleuca/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/pygochelidon_cyanoleuca/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "quiscalus_mexicanus",
+      "scientific_name": "Quiscalus mexicanus",
+      "common_name_en": "Great-tailed Grackle",
+      "common_name_es": "Zanate mayor (chango)",
+      "family": "Icteridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/quiscalus_mexicanus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/quiscalus_mexicanus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/quiscalus_mexicanus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/quiscalus_mexicanus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "dives_warszewiczi",
+      "scientific_name": "Dives warszewiczi",
+      "common_name_en": "Scrub Blackbird",
+      "common_name_es": "Tordo del matorral",
+      "family": "Icteridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/dives_warszewiczi/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/dives_warszewiczi/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/dives_warszewiczi/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/dives_warszewiczi/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "cacicus_cela",
+      "scientific_name": "Cacicus cela",
+      "common_name_en": "Yellow-rumped Cacique",
+      "common_name_es": "Cacique lomiamarillo",
+      "family": "Icteridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/cacicus_cela/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/cacicus_cela/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/cacicus_cela/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/cacicus_cela/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "momotus_momota",
+      "scientific_name": "Momotus momota",
+      "common_name_en": "Amazonian Motmot",
+      "common_name_es": "Barranquero amazónico",
+      "family": "Momotidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/momotus_momota/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/momotus_momota/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/momotus_momota/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/momotus_momota/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "electron_platyrhynchum",
+      "scientific_name": "Electron platyrhynchum",
+      "common_name_en": "Broad-billed Motmot",
+      "common_name_es": "Momoto piquiancho",
+      "family": "Momotidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/electron_platyrhynchum/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/electron_platyrhynchum/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/electron_platyrhynchum/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/electron_platyrhynchum/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "momotus_lessonii",
+      "scientific_name": "Momotus lessonii",
+      "common_name_en": "Lesson's Motmot",
+      "common_name_es": "Barranquero de Lesson",
+      "family": "Momotidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/momotus_lessonii/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/momotus_lessonii/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/momotus_lessonii/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/momotus_lessonii/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "baryphthengus_martii",
+      "scientific_name": "Baryphthengus martii",
+      "common_name_en": "Rufous Motmot",
+      "common_name_es": "Momoto rufo",
+      "family": "Momotidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/baryphthengus_martii/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/baryphthengus_martii/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/baryphthengus_martii/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/baryphthengus_martii/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "eumomota_superciliosa",
+      "scientific_name": "Eumomota superciliosa",
+      "common_name_en": "Turquoise-browed Motmot",
+      "common_name_es": "Barranquero ceja turquesa",
+      "family": "Momotidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/eumomota_superciliosa/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/eumomota_superciliosa/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/eumomota_superciliosa/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/eumomota_superciliosa/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "momotus_subrufescens",
+      "scientific_name": "Momotus subrufescens",
+      "common_name_en": "Whooping Motmot",
+      "common_name_es": "Barranquero silbador",
+      "family": "Momotidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/momotus_subrufescens/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/momotus_subrufescens/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/momotus_subrufescens/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/momotus_subrufescens/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "odontophorus_melanonotus",
+      "scientific_name": "Odontophorus melanonotus",
+      "common_name_en": "Dark-backed Wood-Quail",
+      "common_name_es": "Pava de monte dorsioscura",
+      "family": "Odontophoridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/odontophorus_melanonotus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/odontophorus_melanonotus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/odontophorus_melanonotus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/odontophorus_melanonotus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "setophaga_pitiayumi",
+      "scientific_name": "Setophaga pitiayumi",
+      "common_name_en": "Tropical Parula",
+      "common_name_es": "Reinita tropical",
+      "family": "Parulidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/setophaga_pitiayumi/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/setophaga_pitiayumi/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/setophaga_pitiayumi/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/setophaga_pitiayumi/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "zonotrichia_capensis",
+      "scientific_name": "Zonotrichia capensis",
+      "common_name_en": "Rufous-collared Sparrow",
+      "common_name_es": "Chingolo (gorrión criollo)",
+      "family": "Passerellidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/zonotrichia_capensis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/zonotrichia_capensis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/zonotrichia_capensis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/zonotrichia_capensis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "passer_domesticus",
+      "scientific_name": "Passer domesticus",
+      "common_name_en": "House Sparrow",
+      "common_name_es": "Gorrión común",
+      "family": "Passeridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/passer_domesticus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/passer_domesticus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/passer_domesticus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/passer_domesticus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "campephilus_melanoleucos",
+      "scientific_name": "Campephilus melanoleucos",
+      "common_name_en": "Crimson-crested Woodpecker",
+      "common_name_es": "Carpintero de cresta carmesí",
+      "family": "Picidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/campephilus_melanoleucos/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/campephilus_melanoleucos/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/campephilus_melanoleucos/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/campephilus_melanoleucos/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "microbates_cinereiventris",
+      "scientific_name": "Microbates cinereiventris",
+      "common_name_en": "Tawny-faced Gnatwren",
+      "common_name_es": "Soterillo carileonado",
+      "family": "Polioptilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/microbates_cinereiventris/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/microbates_cinereiventris/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/microbates_cinereiventris/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/microbates_cinereiventris/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "polioptila_plumbea",
+      "scientific_name": "Polioptila plumbea",
+      "common_name_en": "White-browed Gnatcatcher*",
+      "common_name_es": "Perlita tropical (sin. 'White-browed')",
+      "family": "Polioptilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/polioptila_plumbea/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/polioptila_plumbea/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/polioptila_plumbea/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/polioptila_plumbea/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "pionus_menstruus",
+      "scientific_name": "Pionus menstruus",
+      "common_name_en": "Blue-headed Parrot",
+      "common_name_es": "Loro cabeciazul",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/pionus_menstruus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/pionus_menstruus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/pionus_menstruus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/pionus_menstruus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "pionus_chalcopterus",
+      "scientific_name": "Pionus chalcopterus",
+      "common_name_en": "Bronze-winged Parrot",
+      "common_name_es": "Loro alibronce",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/pionus_chalcopterus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/pionus_chalcopterus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/pionus_chalcopterus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/pionus_chalcopterus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "ara_severus",
+      "scientific_name": "Ara severus",
+      "common_name_en": "Chestnut-fronted Macaw",
+      "common_name_es": "Guacamayo frenticastaño",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/ara_severus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/ara_severus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/ara_severus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/ara_severus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "ara_ambiguus",
+      "scientific_name": "Ara ambiguus",
+      "common_name_en": "Great Green Macaw",
+      "common_name_es": "Guacamayo verde mayor",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/ara_ambiguus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/ara_ambiguus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/ara_ambiguus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/ara_ambiguus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "amazona_farinosa",
+      "scientific_name": "Amazona farinosa",
+      "common_name_en": "Mealy Amazon",
+      "common_name_es": "Amazona harinosa",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/amazona_farinosa/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/amazona_farinosa/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/amazona_farinosa/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/amazona_farinosa/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "forpus_coelestis",
+      "scientific_name": "Forpus coelestis",
+      "common_name_en": "Pacific Parrotlet",
+      "common_name_es": "Periquito pacífico",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/forpus_coelestis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/forpus_coelestis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/forpus_coelestis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/forpus_coelestis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "ara_chloropterus",
+      "scientific_name": "Ara chloropterus",
+      "common_name_en": "Red-and-green Macaw",
+      "common_name_es": "Guacamayo rojo y verde",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/ara_chloropterus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/ara_chloropterus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/ara_chloropterus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/ara_chloropterus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "psittacara_erythrogenys",
+      "scientific_name": "Psittacara erythrogenys",
+      "common_name_en": "Red-masked Parakeet",
+      "common_name_es": "Perico cachetí rojo",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/psittacara_erythrogenys/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/psittacara_erythrogenys/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/psittacara_erythrogenys/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/psittacara_erythrogenys/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "pyrilia_pulchra",
+      "scientific_name": "Pyrilia pulchra",
+      "common_name_en": "Rose-faced Parrot",
+      "common_name_es": "Loro carirrosa",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/pyrilia_pulchra/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/pyrilia_pulchra/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/pyrilia_pulchra/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/pyrilia_pulchra/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "ara_macao",
+      "scientific_name": "Ara macao",
+      "common_name_en": "Scarlet Macaw",
+      "common_name_es": "Guacamayo rojo escarlata",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/ara_macao/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/ara_macao/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/ara_macao/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/ara_macao/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "graydidascalus_brachyurus",
+      "scientific_name": "Graydidascalus brachyurus",
+      "common_name_en": "Short-tailed Parrot",
+      "common_name_es": "Loro colicorto",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/graydidascalus_brachyurus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/graydidascalus_brachyurus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/graydidascalus_brachyurus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/graydidascalus_brachyurus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "pionus_tumultuosus",
+      "scientific_name": "Pionus tumultuosus",
+      "common_name_en": "Speckle-faced Parrot",
+      "common_name_es": "Loro cariospeckleado (cara pintada)",
+      "family": "Psittacidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/pionus_tumultuosus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/pionus_tumultuosus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/pionus_tumultuosus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/pionus_tumultuosus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "laterallus_exilis",
+      "scientific_name": "Laterallus exilis",
+      "common_name_en": "Gray-breasted Crake",
+      "common_name_es": "Polluela pechigrís",
+      "family": "Rallidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/laterallus_exilis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/laterallus_exilis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/laterallus_exilis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/laterallus_exilis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "laterallus_melanophaius",
+      "scientific_name": "Laterallus melanophaius",
+      "common_name_en": "Rufous-sided Crake",
+      "common_name_es": "Polluela costado rufo",
+      "family": "Rallidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/laterallus_melanophaius/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/laterallus_melanophaius/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/laterallus_melanophaius/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/laterallus_melanophaius/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "laterallus_albigularis",
+      "scientific_name": "Laterallus albigularis",
+      "common_name_en": "White-throated Crake",
+      "common_name_es": "Polluela garganta blanca",
+      "family": "Rallidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/laterallus_albigularis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/laterallus_albigularis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/laterallus_albigularis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/laterallus_albigularis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "aulacorhynchus_derbianus",
+      "scientific_name": "Aulacorhynchus derbianus",
+      "common_name_en": "Chestnut-tipped Toucanet",
+      "common_name_es": "Tucancillo puntas castañas",
+      "family": "Ramphastidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/aulacorhynchus_derbianus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/aulacorhynchus_derbianus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/aulacorhynchus_derbianus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/aulacorhynchus_derbianus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "ramphastos_ambiguus",
+      "scientific_name": "Ramphastos ambiguus",
+      "common_name_en": "Yellow-throated Toucan",
+      "common_name_es": "Tucán de pecho amarillo",
+      "family": "Ramphastidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/ramphastos_ambiguus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/ramphastos_ambiguus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/ramphastos_ambiguus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/ramphastos_ambiguus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "glaucidium_nubicola",
+      "scientific_name": "Glaucidium nubicola",
+      "common_name_en": "Cloud-forest Pygmy-Owl",
+      "common_name_es": "Mochuelo andino de niebla",
+      "family": "Strigidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/glaucidium_nubicola/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/glaucidium_nubicola/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/glaucidium_nubicola/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/glaucidium_nubicola/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "lophostrix_cristata",
+      "scientific_name": "Lophostrix cristata",
+      "common_name_en": "Crested Owl",
+      "common_name_es": "Búho crestado",
+      "family": "Strigidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/lophostrix_cristata/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/lophostrix_cristata/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/lophostrix_cristata/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/lophostrix_cristata/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "megascops_roraimae",
+      "scientific_name": "Megascops roraimae",
+      "common_name_en": "Foothill Screech-Owl",
+      "common_name_es": "Autillo de estribaciones",
+      "family": "Strigidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/megascops_roraimae/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/megascops_roraimae/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/megascops_roraimae/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/megascops_roraimae/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "strix_virgata",
+      "scientific_name": "Strix virgata",
+      "common_name_en": "Mottled Owl",
+      "common_name_es": "Búho moteado",
+      "family": "Strigidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/strix_virgata/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/strix_virgata/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/strix_virgata/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/strix_virgata/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "glaucidium_peruanum",
+      "scientific_name": "Glaucidium peruanum",
+      "common_name_en": "Peruvian Pygmy-Owl",
+      "common_name_es": "Mochuelo peruano",
+      "family": "Strigidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/glaucidium_peruanum/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/glaucidium_peruanum/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/glaucidium_peruanum/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/glaucidium_peruanum/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "pulsatrix_perspicillata",
+      "scientific_name": "Pulsatrix perspicillata",
+      "common_name_en": "Spectacled Owl",
+      "common_name_es": "Búho de anteojos",
+      "family": "Strigidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/pulsatrix_perspicillata/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/pulsatrix_perspicillata/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/pulsatrix_perspicillata/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/pulsatrix_perspicillata/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "megascops_choliba",
+      "scientific_name": "Megascops choliba",
+      "common_name_en": "Tropical Screech-Owl",
+      "common_name_es": "Autillo tropical",
+      "family": "Strigidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/megascops_choliba/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/megascops_choliba/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/megascops_choliba/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/megascops_choliba/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "myrmotherula_axillaris",
+      "scientific_name": "Myrmotherula axillaris",
+      "common_name_en": "White-flanked Antwren",
+      "common_name_es": "Hormiguerito flanquiblanco",
+      "family": "Thamnophilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/myrmotherula_axillaris/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/myrmotherula_axillaris/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/myrmotherula_axillaris/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/myrmotherula_axillaris/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "coereba_flaveola",
+      "scientific_name": "Coereba flaveola",
+      "common_name_en": "Bananaquit",
+      "common_name_es": "Mielero común",
+      "family": "Thraupidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/coereba_flaveola/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/coereba_flaveola/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/coereba_flaveola/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/coereba_flaveola/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "volatinia_jacarina",
+      "scientific_name": "Volatinia jacarina",
+      "common_name_en": "Blue-black Grassquit",
+      "common_name_es": "Semillero azulnegro",
+      "family": "Thraupidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/volatinia_jacarina/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/volatinia_jacarina/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/volatinia_jacarina/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/volatinia_jacarina/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "thraupis_episcopus",
+      "scientific_name": "Thraupis episcopus",
+      "common_name_en": "Blue-gray Tanager",
+      "common_name_es": "Azulejo común (Tangara azuleja)",
+      "family": "Thraupidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/thraupis_episcopus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/thraupis_episcopus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/thraupis_episcopus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/thraupis_episcopus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "thraupis_palmarum",
+      "scientific_name": "Thraupis palmarum",
+      "common_name_en": "Palm Tanager",
+      "common_name_es": "Tangara palmera",
+      "family": "Thraupidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/thraupis_palmarum/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/thraupis_palmarum/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/thraupis_palmarum/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/thraupis_palmarum/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "sicalis_flaveola",
+      "scientific_name": "Sicalis flaveola",
+      "common_name_en": "Saffron Finch",
+      "common_name_es": "Pinzón sabanero (azafranado)",
+      "family": "Thraupidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/sicalis_flaveola/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/sicalis_flaveola/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/sicalis_flaveola/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/sicalis_flaveola/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "sicalis_flaveola",
+      "scientific_name": "Sicalis flaveola",
+      "common_name_en": "Saffron Finch",
+      "common_name_es": "Pinzón sabanero (azafranado)",
+      "family": "Thraupidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/sicalis_flaveola/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/sicalis_flaveola/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/sicalis_flaveola/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/sicalis_flaveola/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "saltator_grossus",
+      "scientific_name": "Saltator grossus",
+      "common_name_en": "Slate-colored Grosbeak",
+      "common_name_es": "Picogordo pizarra",
+      "family": "Thraupidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/saltator_grossus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/saltator_grossus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/saltator_grossus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/saltator_grossus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "crypturellus_obsoletus",
+      "scientific_name": "Crypturellus obsoletus",
+      "common_name_en": "Brown Tinamou",
+      "common_name_es": "Tinamú pardo",
+      "family": "Tinamidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/crypturellus_obsoletus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/crypturellus_obsoletus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/crypturellus_obsoletus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/crypturellus_obsoletus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "crypturellus_cinereus",
+      "scientific_name": "Crypturellus cinereus",
+      "common_name_en": "Cinereous Tinamou",
+      "common_name_es": "Tinamú ceniciento",
+      "family": "Tinamidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/crypturellus_cinereus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/crypturellus_cinereus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/crypturellus_cinereus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/crypturellus_cinereus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "tinamus_major",
+      "scientific_name": "Tinamus major",
+      "common_name_en": "Great Tinamou",
+      "common_name_es": "Tinamú grande",
+      "family": "Tinamidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/tinamus_major/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/tinamus_major/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/tinamus_major/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/tinamus_major/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "crypturellus_soui",
+      "scientific_name": "Crypturellus soui",
+      "common_name_en": "Little Tinamou",
+      "common_name_es": "Tinamú chico",
+      "family": "Tinamidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/crypturellus_soui/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/crypturellus_soui/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/crypturellus_soui/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/crypturellus_soui/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "tityra_semifasciata",
+      "scientific_name": "Tityra semifasciata",
+      "common_name_en": "Masked Tityra",
+      "common_name_es": "Tirira enmascarada",
+      "family": "Tityridae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/tityra_semifasciata/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/tityra_semifasciata/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/tityra_semifasciata/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/tityra_semifasciata/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "heliothryx_auritus",
+      "scientific_name": "Heliothryx auritus",
+      "common_name_en": "Black-eared Fairy",
+      "common_name_es": "Hada orejinegra",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/heliothryx_auritus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/heliothryx_auritus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/heliothryx_auritus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/heliothryx_auritus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "anthracothorax_nigricollis",
+      "scientific_name": "Anthracothorax nigricollis",
+      "common_name_en": "Black-throated Mango",
+      "common_name_es": "Mango gorginegro",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/anthracothorax_nigricollis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/anthracothorax_nigricollis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/anthracothorax_nigricollis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/anthracothorax_nigricollis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "chalybura_urochrysia",
+      "scientific_name": "Chalybura urochrysia",
+      "common_name_en": "Bronze-tailed Plumeleteer",
+      "common_name_es": "Plumero colibronce",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/chalybura_urochrysia/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/chalybura_urochrysia/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/chalybura_urochrysia/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/chalybura_urochrysia/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "coeligena_lutetiae",
+      "scientific_name": "Coeligena lutetiae",
+      "common_name_en": "Buff-winged Starfrontlet",
+      "common_name_es": "Frentiazul alibufas",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/coeligena_lutetiae/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/coeligena_lutetiae/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/coeligena_lutetiae/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/coeligena_lutetiae/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "coeligena_torquata",
+      "scientific_name": "Coeligena torquata",
+      "common_name_en": "Collared Inca",
+      "common_name_es": "Inca collarejo",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/coeligena_torquata/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/coeligena_torquata/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/coeligena_torquata/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/coeligena_torquata/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "thalurania_colombica",
+      "scientific_name": "Thalurania colombica",
+      "common_name_en": "Crowned Woodnymph",
+      "common_name_es": "Ninfa coronada",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/thalurania_colombica/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/thalurania_colombica/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/thalurania_colombica/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/thalurania_colombica/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "heliodoxa_imperatrix",
+      "scientific_name": "Heliodoxa imperatrix",
+      "common_name_en": "Empress Brilliant",
+      "common_name_es": "Brillante emperatriz",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/heliodoxa_imperatrix/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/heliodoxa_imperatrix/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/heliodoxa_imperatrix/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/heliodoxa_imperatrix/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "lophornis_chalybeus",
+      "scientific_name": "Lophornis chalybeus",
+      "common_name_en": "Festive Coquette",
+      "common_name_es": "Coqueta festiva",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/lophornis_chalybeus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/lophornis_chalybeus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/lophornis_chalybeus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/lophornis_chalybeus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "eriocnemis_vestita",
+      "scientific_name": "Eriocnemis vestita",
+      "common_name_en": "Glowing Puffleg",
+      "common_name_es": "Calzadito resplandeciente",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/eriocnemis_vestita/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/eriocnemis_vestita/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/eriocnemis_vestita/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/eriocnemis_vestita/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "eriocnemis_mosquera",
+      "scientific_name": "Eriocnemis mosquera",
+      "common_name_en": "Golden-breasted Puffleg",
+      "common_name_es": "Calzadito pechidorado",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/eriocnemis_mosquera/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/eriocnemis_mosquera/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/eriocnemis_mosquera/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/eriocnemis_mosquera/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "chrysuronia_oenone",
+      "scientific_name": "Chrysuronia oenone",
+      "common_name_en": "Golden-tailed Sapphire",
+      "common_name_es": "Zafiro colidorado",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/chrysuronia_oenone/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/chrysuronia_oenone/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/chrysuronia_oenone/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/chrysuronia_oenone/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "phaethornis_guy",
+      "scientific_name": "Phaethornis guy",
+      "common_name_en": "Green Hermit",
+      "common_name_es": "Ermitaño verde",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/phaethornis_guy/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/phaethornis_guy/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/phaethornis_guy/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/phaethornis_guy/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "heliodoxa_jacula",
+      "scientific_name": "Heliodoxa jacula",
+      "common_name_en": "Green-crowned Brilliant",
+      "common_name_es": "Brillante coroniverde",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/heliodoxa_jacula/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/heliodoxa_jacula/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/heliodoxa_jacula/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/heliodoxa_jacula/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "lesbia_nuna",
+      "scientific_name": "Lesbia nuna",
+      "common_name_en": "Green-tailed Trainbearer",
+      "common_name_es": "Colibrí cola verde",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/lesbia_nuna/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/lesbia_nuna/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/lesbia_nuna/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/lesbia_nuna/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "lafresnaya_lafresnayi",
+      "scientific_name": "Lafresnaya lafresnayi",
+      "common_name_en": "Mountain Velvetbreast",
+      "common_name_es": "Pechugaveludo andino",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/lafresnaya_lafresnayi/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/lafresnaya_lafresnayi/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/lafresnaya_lafresnayi/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/lafresnaya_lafresnayi/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "campylopterus_villavicencio",
+      "scientific_name": "Campylopterus villavicencio",
+      "common_name_en": "Napo Sabrewing",
+      "common_name_es": "Ala de sable del Napo",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/campylopterus_villavicencio/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/campylopterus_villavicencio/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/campylopterus_villavicencio/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/campylopterus_villavicencio/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "urosticte_benjamini",
+      "scientific_name": "Urosticte benjamini",
+      "common_name_en": "Purple-bibbed Whitetip",
+      "common_name_es": "Barba morada puntablanca",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/urosticte_benjamini/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/urosticte_benjamini/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/urosticte_benjamini/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/urosticte_benjamini/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "polyerata_rosenbergi",
+      "scientific_name": "Polyerata rosenbergi",
+      "common_name_en": "Purple-chested Hummingbird",
+      "common_name_es": "Colibrí pechivioleta",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/polyerata_rosenbergi/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/polyerata_rosenbergi/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/polyerata_rosenbergi/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/polyerata_rosenbergi/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "heliothryx_barroti",
+      "scientific_name": "Heliothryx barroti",
+      "common_name_en": "Purple-crowned Fairy",
+      "common_name_es": "Hada coronada morada",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/heliothryx_barroti/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/heliothryx_barroti/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/heliothryx_barroti/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/heliothryx_barroti/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "urochroa_bougueri",
+      "scientific_name": "Urochroa bougueri",
+      "common_name_en": "Rufous-gaped Hillstar",
+      "common_name_es": "Estrellita de garganta rufo",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/urochroa_bougueri/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/urochroa_bougueri/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/urochroa_bougueri/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/urochroa_bougueri/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "amazilia_tzacatl",
+      "scientific_name": "Amazilia tzacatl",
+      "common_name_en": "Rufous-tailed Hummingbird",
+      "common_name_es": "Colibrí rabo rufo",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/amazilia_tzacatl/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/amazilia_tzacatl/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/amazilia_tzacatl/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/amazilia_tzacatl/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "urosticte_ruficrissa",
+      "scientific_name": "Urosticte ruficrissa",
+      "common_name_en": "Rufous-vented Whitetip",
+      "common_name_es": "Puntarrecio vientre rufo",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/urosticte_ruficrissa/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/urosticte_ruficrissa/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/urosticte_ruficrissa/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/urosticte_ruficrissa/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "eriocnemis_luciani",
+      "scientific_name": "Eriocnemis luciani",
+      "common_name_en": "Sapphire-vented Puffleg",
+      "common_name_es": "Calzadito ventrizafiro",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/eriocnemis_luciani/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/eriocnemis_luciani/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/eriocnemis_luciani/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/eriocnemis_luciani/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "colibri_coruscans",
+      "scientific_name": "Colibri coruscans",
+      "common_name_en": "Sparkling Violetear",
+      "common_name_es": "Oreja violeta brillante",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/colibri_coruscans/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/colibri_coruscans/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/colibri_coruscans/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/colibri_coruscans/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "klais_guimeti",
+      "scientific_name": "Klais guimeti",
+      "common_name_en": "Violet-headed Hummingbird",
+      "common_name_es": "Colibrí cabecivioleta",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/klais_guimeti/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/klais_guimeti/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/klais_guimeti/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/klais_guimeti/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "ocreatus_underwoodii",
+      "scientific_name": "Ocreatus underwoodii",
+      "common_name_en": "White-booted Racket-tail",
+      "common_name_es": "Racket-tail botas blancas",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/ocreatus_underwoodii/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/ocreatus_underwoodii/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/ocreatus_underwoodii/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/ocreatus_underwoodii/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "florisuga_mellivora",
+      "scientific_name": "Florisuga mellivora",
+      "common_name_en": "White-necked Jacobin",
+      "common_name_es": "Jacobin de cuello blanco",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/florisuga_mellivora/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/florisuga_mellivora/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/florisuga_mellivora/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/florisuga_mellivora/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "eutoxeres_aquila",
+      "scientific_name": "Eutoxeres aquila",
+      "common_name_en": "White-tipped Sicklebill",
+      "common_name_es": "Pico de hoz puntiblanco",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/eutoxeres_aquila/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/eutoxeres_aquila/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/eutoxeres_aquila/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/eutoxeres_aquila/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "discosura_popelairii",
+      "scientific_name": "Discosura popelairii",
+      "common_name_en": "Wire-crested Thorntail",
+      "common_name_es": "Colaespina copete alambre",
+      "family": "Trochilidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/discosura_popelairii/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/discosura_popelairii/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/discosura_popelairii/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/discosura_popelairii/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "henicorhina_leucophrys",
+      "scientific_name": "Henicorhina leucophrys",
+      "common_name_en": "Gray-breasted Wood-Wren",
+      "common_name_es": "Chochín-montés pechigrís",
+      "family": "Troglodytidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/henicorhina_leucophrys/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/henicorhina_leucophrys/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/henicorhina_leucophrys/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/henicorhina_leucophrys/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "troglodytes_aedon",
+      "scientific_name": "Troglodytes aedon",
+      "common_name_en": "Northern House Wren",
+      "common_name_es": "Soterrey casero (norteño)",
+      "family": "Troglodytidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/troglodytes_aedon/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/troglodytes_aedon/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/troglodytes_aedon/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/troglodytes_aedon/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "microcerculus_marginatus",
+      "scientific_name": "Microcerculus marginatus",
+      "common_name_en": "Scaly-breasted Wren",
+      "common_name_es": "Chochín ruiseñor",
+      "family": "Troglodytidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/microcerculus_marginatus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/microcerculus_marginatus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/microcerculus_marginatus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/microcerculus_marginatus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "troglodytes_musculus",
+      "scientific_name": "Troglodytes musculus",
+      "common_name_en": "Southern House Wren",
+      "common_name_es": "Soterrey doméstico (sureño)",
+      "family": "Troglodytidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/troglodytes_musculus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/troglodytes_musculus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/troglodytes_musculus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/troglodytes_musculus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "pheugopedius_mystacalis",
+      "scientific_name": "Pheugopedius mystacalis",
+      "common_name_en": "Whiskered Wren",
+      "common_name_es": "Chochín bigotudo",
+      "family": "Troglodytidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/pheugopedius_mystacalis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/pheugopedius_mystacalis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/pheugopedius_mystacalis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/pheugopedius_mystacalis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "henicorhina_leucosticta",
+      "scientific_name": "Henicorhina leucosticta",
+      "common_name_en": "White-breasted Wood-Wren",
+      "common_name_es": "Chochín-montés pechiblanco",
+      "family": "Troglodytidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/henicorhina_leucosticta/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/henicorhina_leucosticta/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/henicorhina_leucosticta/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/henicorhina_leucosticta/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "trogon_melanurus",
+      "scientific_name": "Trogon melanurus",
+      "common_name_en": "Black-tailed Trogon",
+      "common_name_es": "Trogón colinegro",
+      "family": "Trogonidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/trogon_melanurus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/trogon_melanurus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/trogon_melanurus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/trogon_melanurus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "trogon_comptus",
+      "scientific_name": "Trogon comptus",
+      "common_name_en": "Blue-tailed Trogon",
+      "common_name_es": "Trogón coliazul (Chocó)",
+      "family": "Trogonidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/trogon_comptus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/trogon_comptus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/trogon_comptus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/trogon_comptus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "trogon_collaris",
+      "scientific_name": "Trogon collaris",
+      "common_name_en": "Collared Trogon",
+      "common_name_es": "Trogón collarejo",
+      "family": "Trogonidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/trogon_collaris/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/trogon_collaris/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/trogon_collaris/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/trogon_collaris/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "trogon_mesurus",
+      "scientific_name": "Trogon mesurus",
+      "common_name_en": "Ecuadorian Trogon",
+      "common_name_es": "Trogón ecuatoriano",
+      "family": "Trogonidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/trogon_mesurus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/trogon_mesurus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/trogon_mesurus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/trogon_mesurus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "turdus_grayi",
+      "scientific_name": "Turdus grayi",
+      "common_name_en": "Clay-colored Thrush",
+      "common_name_es": "Mirlo pardo",
+      "family": "Turdidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/turdus_grayi/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/turdus_grayi/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/turdus_grayi/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/turdus_grayi/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "sayornis_nigricans",
+      "scientific_name": "Sayornis nigricans",
+      "common_name_en": "Black Phoebe",
+      "common_name_es": "Febe guardarríos",
+      "family": "Tyrannidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/sayornis_nigricans/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/sayornis_nigricans/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/sayornis_nigricans/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/sayornis_nigricans/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "todirostrum_cinereum",
+      "scientific_name": "Todirostrum cinereum",
+      "common_name_en": "Common Tody-Flycatcher",
+      "common_name_es": "Espatulilla común (Tití)",
+      "family": "Tyrannidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/todirostrum_cinereum/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/todirostrum_cinereum/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/todirostrum_cinereum/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/todirostrum_cinereum/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "contopus_bogotensis",
+      "scientific_name": "Contopus bogotensis",
+      "common_name_en": "Northern Tropical Pewee",
+      "common_name_es": "Pibí tropical norteño",
+      "family": "Tyrannidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/contopus_bogotensis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/contopus_bogotensis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/contopus_bogotensis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/contopus_bogotensis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "myiotriccus_ornatus",
+      "scientific_name": "Myiotriccus ornatus",
+      "common_name_en": "Ornate Flycatcher",
+      "common_name_es": "Mosquerito adornado",
+      "family": "Tyrannidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/myiotriccus_ornatus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/myiotriccus_ornatus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/myiotriccus_ornatus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/myiotriccus_ornatus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "myiozetetes_cayanensis",
+      "scientific_name": "Myiozetetes cayanensis",
+      "common_name_en": "Rusty-margined Flycatcher",
+      "common_name_es": "Mosquero castaño",
+      "family": "Tyrannidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/myiozetetes_cayanensis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/myiozetetes_cayanensis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/myiozetetes_cayanensis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/myiozetetes_cayanensis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "myiozetetes_similis",
+      "scientific_name": "Myiozetetes similis",
+      "common_name_en": "Social Flycatcher",
+      "common_name_es": "Mosquero social",
+      "family": "Tyrannidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/myiozetetes_similis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/myiozetetes_similis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/myiozetetes_similis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/myiozetetes_similis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "camptostoma_obsoletum",
+      "scientific_name": "Camptostoma obsoletum",
+      "common_name_en": "Southern Beardless-Tyrannulet",
+      "common_name_es": "Tiranuelo sudamericano",
+      "family": "Tyrannidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/camptostoma_obsoletum/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/camptostoma_obsoletum/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/camptostoma_obsoletum/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/camptostoma_obsoletum/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "tyrannus_melancholicus",
+      "scientific_name": "Tyrannus melancholicus",
+      "common_name_en": "Tropical Kingbird",
+      "common_name_es": "Tirano tropical",
+      "family": "Tyrannidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/tyrannus_melancholicus/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/tyrannus_melancholicus/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/tyrannus_melancholicus/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/tyrannus_melancholicus/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "tyto_furcata",
+      "scientific_name": "Tyto furcata",
+      "common_name_en": "American Barn Owl",
+      "common_name_es": "Lechuza de campanario",
+      "family": "Tytonidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/tyto_furcata/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/tyto_furcata/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/tyto_furcata/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/tyto_furcata/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    },
+    {
+      "species_id": "cyclarhis_gujanensis",
+      "scientific_name": "Cyclarhis gujanensis",
+      "common_name_en": "Rufous-browed Peppershrike",
+      "common_name_es": "Vireón cejirrufo",
+      "family": "Vireonidae",
+      "description": {
+        "es": "",
+        "en": ""
+      },
+      "assets": {
+        "image_cover": "assets/aves/cyclarhis_gujanensis/cover.jpg",
+        "gallery": [],
+        "audio_samples": [
+          "assets/aves/cyclarhis_gujanensis/call_1.mp3"
+        ],
+        "spectrograms": [
+          "assets/aves/cyclarhis_gujanensis/spec_1.png"
+        ],
+        "distribution_geojson": "assets/aves/cyclarhis_gujanensis/range.geo.json"
+      },
+      "sources": {
+        "credit_text": "",
+        "license": "",
+        "attribution": []
+      }
+    }
+  ]
+}
