@@ -35,3 +35,6 @@ Dos ejemplos de las diferentes opciones o funcionalidades dentro de la aplicaci�
 ![Opción 1](CapturaOp1.jpeg) ![Opción 2](CapturaOp2.jpeg)
 
 ---
+##  Paquete del sonido de las aves
+https://www.mediafire.com/file/ia6yshuv5kpq01k/audios_aves.rar/file
+
